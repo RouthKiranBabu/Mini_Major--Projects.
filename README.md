@@ -1,19 +1,6 @@
 # -Mini-Major--projects
 This repository Consists of latest project I have been involved as an SDET. Hope you feel interesting. Feel free to reach out.
 
-# 🚀 Mini & Major Projects — Yearly Overview
-
-> 📌 Click on any month to open the projects created during that period.  
-> 🛠️ Each folder may contain one or more mini/major projects with documentation.
-
----
-
-## 🧠 Why this section?
-- Shows **structured, time-based project growth**
-- Makes it easy for recruiters to **navigate projects quickly**
-- Highlights **consistency and discipline**
-- Clearly separates work **year-wise**
-
 ---
 
 ## 📅 Projects by Year & Month
@@ -85,6 +72,21 @@ This repository Consists of latest project I have been involved as an SDET. Hope
   </tr>
   </tbody>
 </table>
+
+---
+
+# 🚀 Mini & Major Projects — Yearly Overview
+
+> 📌 Click on any month to open the projects created during that period.  
+> 🛠️ Each folder may contain one or more mini/major projects with documentation.
+
+---
+
+## 🧠 Why this section?
+- Shows **structured, time-based project growth**
+- Makes it easy for recruiters to **navigate projects quickly**
+- Highlights **consistency and discipline**
+- Clearly separates work **year-wise**
 
 ---
 
