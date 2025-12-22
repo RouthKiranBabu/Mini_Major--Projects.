@@ -3,7 +3,7 @@ This repository Consists of latest project I have been involved as an SDET. Hope
 
 ---
 
-## 📅 Projects by Year & Month
+<h1 align="center">📅 Projects by Year & Month</h1>
 
 <table align="center">
   <thead>
