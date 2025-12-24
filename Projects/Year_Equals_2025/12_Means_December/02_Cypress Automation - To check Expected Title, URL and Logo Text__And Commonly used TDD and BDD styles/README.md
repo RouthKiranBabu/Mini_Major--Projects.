@@ -12,7 +12,7 @@ npx cypress run --spec "cypress/e2e/Spec_File.cy.js" --browser chrome --headed
 
 # To save the result as video:
 ```
-    add the below three line into cypress.config.js:
+    Add the below three line into cypress.config.js:
         video: true,
         videoCompression: 32,
         videoUploadOnPasses: true,
@@ -20,16 +20,17 @@ npx cypress run --spec "cypress/e2e/Spec_File.cy.js" --browser chrome --headed
 
 # To run in headless mode(without test visual):
 ```bash
-    add the below line into cypress.config.js:
+    Add the below line into cypress.config.js:
         specPattern: "cypress/e2e/Spec_File.cy.{js,ts,jsx,tsx}"
     then start executing using: npx cypress run
-    instead of typing "npx cypress run --spec "cypress/e2e/Spec_File.cy.js" --browser chrome --headed" which is too lengthy
+    instead of typing ["npx cypress run --spec "cypress/e2e/Spec_File.cy.js" --browser chrome --headed"] - which is too lengthy
 ```
 
 # To use xpath:
 ```bash
-    in terminal: npm install cypress-xpath
+    In terminal: npm install cypress-xpath
     command.js(at last line): ///<reference types="cypress"/>
     e2e.js(at last line): require("cypress-xpath")
-    then use: cy.xpath(...)
+    Then use: cy.xpath(...)
+
 ```
