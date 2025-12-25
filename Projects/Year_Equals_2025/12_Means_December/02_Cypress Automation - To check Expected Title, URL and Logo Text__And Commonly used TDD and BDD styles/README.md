@@ -55,6 +55,7 @@ Cypress automatically waits for:
 <hr/>
 
 <h2 align="center">📂 Test Implementation</h2>
+<h6 align="left">Actual Code(includes Comments): <a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2025/12_Means_December/02_Cypress%20Automation%20-%20To%20check%20Expected%20Title%2C%20URL%20and%20Logo%20Text__And%20Commonly%20used%20TDD%20and%20BDD%20styles/cypress/e2e/Spec_File.cy.js">Click here!</a></h6>
 
 ```javascript
 describe('template spec', () => {
@@ -106,3 +107,4 @@ describe('template spec', () => {
 <hr/> <h2 align="center">🎥 Demo & 📄 Documentation</h2> <div align="center"> <table> <tr> <td align="center"> <b>🎬 Cypress Execution Demo</b><br/><br/> <a href="assets/demo.gif" target="_blank"> <img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2025/12_Means_December/02_Cypress%20Automation%20-%20To%20check%20Expected%20Title%2C%20URL%20and%20Logo%20Text__And%20Commonly%20used%20TDD%20and%20BDD%20styles/Document%20And%20Gif/Cypress_Fetures_AutoWaiting_Assertions.gif" width="400"/> </a> </td> <td align="center"> <b>📄 Project Documentation</b><br/><br/> <a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2025/12_Means_December/02_Cypress%20Automation%20-%20To%20check%20Expected%20Title%2C%20URL%20and%20Logo%20Text__And%20Commonly%20used%20TDD%20and%20BDD%20styles/Document%20And%20Gif/Cypress%20End-to-End%20Automation%20Project.pdf" target="_blank"> <img src="https://img.shields.io/badge/View%20PDF-Documentation-red?style=for-the-badge&logo=adobeacrobatreader"/> </a> </td> </tr> </table> </div> <hr/> 
 
 <h2 align="center">📢 Support & Connect</h2> <p align="center"> If you find this project useful, please consider supporting 🙌 </p> <div align="center"> <a href="https://www.linkedin.com/posts/routhkiranbabu_im-happy-to-share-this-cypress-automation-activity-7409872664175247360-9lff?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0fSW0BCXvPinW6E3cbBZFekfnprC0b-FU" target="_blank"> <img src="https://img.shields.io/badge/Like%20%7C%20Comment%20%7C%20Share-LinkedIn-blue?style=for-the-badge&logo=linkedin"/> </a> </div> <hr/> <h3 align="center">👨‍💻 Author</h3> <p align="center"> <b>Routh Kiran Babu</b><br/> Aspiring SDET | Cypress Automation Enthusiast </p> <p align="center"> ⭐ If this repository helped you, don't forget to star it! </p> 
+
