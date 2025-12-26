@@ -2,20 +2,20 @@
 <details>
 <summary><strong>Click to expand</strong></summary>
 
-- 🚀 Project Title  
+- 🚀 [Project Title](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2025/12_Means_December/02_%5BCypress%5D%20-%20To%20check%20Expected%20Title%2C%20URL%20and%20Logo%20Text__And%20Commonly%20used%20TDD%20and%20BDD%20styles#-cypress-automation--auto-waiting-mechanism)
 - ⚡ One-Line Project Summary  
 - 🎯 Aim / Objective  
 - 🔥 Real-World Problem Statement  
-- 🧠 Core Concept Demonstrated – Cypress Auto-Waiting  
+- 🧠 [Core Concept Demonstrated – Cypress Auto-Waiting](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2025/12_Means_December/02_%5BCypress%5D%20-%20To%20check%20Expected%20Title%2C%20URL%20and%20Logo%20Text__And%20Commonly%20used%20TDD%20and%20BDD%20styles#-core-concept-demonstrated--cypress-auto-waiting)
 - 🧪 Test Scenarios Covered
-- 📂 Actual Automation Code (With Comments)
+- 📂 [Actual Automation Code (With Comments)](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2025/12_Means_December/02_%5BCypress%5D%20-%20To%20check%20Expected%20Title%2C%20URL%20and%20Logo%20Text__And%20Commonly%20used%20TDD%20and%20BDD%20styles#-actual-automation-code-with-comments)
 - 🧰 Tech Stack Used  
 - 🧩 Cypress Features Utilized  
-- 🛠️ Challenges Faced & Solutions  
+- 🛠️ [Challenges Faced & Solutions](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2025/12_Means_December/02_%5BCypress%5D%20-%20To%20check%20Expected%20Title%2C%20URL%20and%20Logo%20Text__And%20Commonly%20used%20TDD%20and%20BDD%20styles#%EF%B8%8F-challenges-faced--solutions)
 - 📂 Project Structure Overview  
-- ▶️ Execution Demo & Documentation  
+- ▶️ [Execution Demo & Documentation](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2025/12_Means_December/02_%5BCypress%5D%20-%20To%20check%20Expected%20Title%2C%20URL%20and%20Logo%20Text__And%20Commonly%20used%20TDD%20and%20BDD%20styles#%EF%B8%8F-execution-demo---documentation)
 - 🧠 Key Learnings for SDET Role  
-- 🔗 Proof of Work — Support & Connect  
+- 🔗 [Proof of Work — Support & Connect](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2025/12_Means_December/02_%5BCypress%5D%20-%20To%20check%20Expected%20Title%2C%20URL%20and%20Logo%20Text__And%20Commonly%20used%20TDD%20and%20BDD%20styles#-proof-of-work--support--connect)
 - 👨‍💻 Author  
 
 </details>
@@ -231,6 +231,7 @@ Aspiring SDET | Cypress Automation Enthusiast
 <p align="center">
 ⭐ If this repository helped you, don't forget to star it!
 </p>
+
 
 
 
