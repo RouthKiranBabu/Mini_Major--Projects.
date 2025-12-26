@@ -16,7 +16,7 @@
 
 ---
 
-<h1 align="center">🚀 OrangeHRM Login Automation Framework</h1>
+<h1 align="center">🧪 OrangeHRM Login Automation Framework</h1>
 
 <h3 align="center">
 Real-Time SDET Project using JIRA & Zephyr with Evidence-Driven Automation
@@ -24,7 +24,7 @@ Real-Time SDET Project using JIRA & Zephyr with Evidence-Driven Automation
 
 ---
 
-<h3 align="center">⚡ One-Line Project Summary</h3>
+<h3 align="center">📌 One-Line Project Summary</h3>
 
 <p align="center">
 An industry-aligned SDET automation project demonstrating how login functionality of a real-world HR application is automated, tracked, and reported using JIRA & Zephyr with complete execution evidence.
@@ -49,7 +49,7 @@ This project addresses how SDETs automate critical login scenarios, manage test 
 
 ---
 
-<h3 align="center">🧰 Tech Stack Used</h3>
+<h3 align="center">🛠️ Tech Stack Used</h3>
 
 <p align="center">
   <a href="https://www.atlassian.com/software/jira" target="_blank">
@@ -65,7 +65,7 @@ This project addresses how SDETs automate critical login scenarios, manage test 
 
 ---
 
-<h3 align="center">🧰 Challenges Faced & Solutions</h3>
+<h3 align="center">🛠️ Challenges Faced & Solutions</h3>
 
 <div align="center">
   
@@ -79,7 +79,7 @@ This project addresses how SDETs automate critical login scenarios, manage test 
 
 ---
 
-<h3 align="center">🧰 How to Run the Project (Setup & Execution)</h3>
+<h3 align="center">🛠️ How to Run the Project (Setup & Execution)</h3>
 
 <table align="center">
 <tr>
@@ -104,7 +104,7 @@ This project addresses how SDETs automate critical login scenarios, manage test 
 
 ---
 
-<h3 align="center">1️⃣ Proof of Work — Support & Connect</h3>
+<h3 align="center">🔗 Proof of Work — Support & Connect</h3>
 
 <p align="center">
 <strong>If you find this project useful, please consider supporting 🙌</strong>
