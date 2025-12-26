@@ -107,7 +107,7 @@ This project addresses how SDETs automate critical login scenarios, manage test 
 <h3 align="center">🔗 Proof of Work — Support & Connect</h3>
 
 <p align="center">
-<strong>If you find this project useful, please consider supporting 🙌</strong>
+<strong>If this project added value to you, please support by <b>liking</b>, <b>commenting</b>, and <b>sharing</b> the LinkedIn post below 🚀</strong>
 </p>
 
 <p align="center">
