@@ -7,7 +7,8 @@
 - 🎯 Aim / Objective  
 - 🔥 Real-World Problem Statement  
 - 🧠 Core Concept Demonstrated – Cypress Auto-Waiting  
-- 🧪 Test Scenarios Covered  
+- 🧪 Test Scenarios Covered
+- 📂 Actual Automation Code (With Comments)
 - 🧰 Tech Stack Used  
 - 🧩 Cypress Features Utilized  
 - 🛠️ Challenges Faced & Solutions  
@@ -98,7 +99,7 @@ This section provides direct access to the <b>actual Cypress test implementation
 </p>
 
 <p align="center">
-<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2025/12_Means_December/02_Cypress%20Automation%20-%20To%20check%20Expected%20Title%2C%20URL%20and%20Logo%20Text__And%20Commonly%20used%20TDD%20and%20BDD%20styles/cypress/e2e/Spec_File.cy.js" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2025/12_Means_December/02_%5BCypress%5D%20-%20To%20check%20Expected%20Title%2C%20URL%20and%20Logo%20Text__And%20Commonly%20used%20TDD%20and%20BDD%20styles/cypress/e2e/Spec_File.cy.js" target="_blank">
   <img src="https://img.shields.io/badge/View%20Actual%20Cypress%20Code-Click%20Here-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -230,4 +231,5 @@ Aspiring SDET | Cypress Automation Enthusiast
 <p align="center">
 ⭐ If this repository helped you, don't forget to star it!
 </p>
+
 
