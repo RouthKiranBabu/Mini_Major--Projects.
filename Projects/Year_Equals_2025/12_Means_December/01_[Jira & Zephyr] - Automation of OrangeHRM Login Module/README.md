@@ -95,7 +95,7 @@ This project addresses how SDETs automate critical login scenarios, manage test 
 👉 **Click below to open the PDF**
 
 <a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2025/12_Means_December/01_%5BJira%20%26%20Zephyr%5D%20-%20Automation%20of%20OrangeHRM%20Login%20Module/Guide%20For%20You.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Open%20PDF%20Guide-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View%20PDF-Documentation-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
 
 </td>
