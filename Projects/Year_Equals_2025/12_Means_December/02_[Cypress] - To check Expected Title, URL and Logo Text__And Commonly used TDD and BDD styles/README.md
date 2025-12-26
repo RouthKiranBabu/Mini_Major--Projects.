@@ -201,7 +201,7 @@ This section provides direct access to the <b>actual Cypress test implementation
 <h3 align="center">🔗 Proof of Work — Support & Connect</h3>
 
 <p align="center">
-<strong>If this project added value to you, please support by <b>liking</b>, <b>commenting</b>, and <b>sharing</b> the LinkedIn post below 🚀</strong>
+<strong>If this project added value to you, please support by <b>liking</b>, <b>commenting(rating ⭐ out of 5)</b>, and <b>sharing</b> the LinkedIn post below 🚀</strong>
 </p>
 
 <p align="center">
@@ -231,6 +231,7 @@ Aspiring SDET | Cypress Automation Enthusiast
 <p align="center">
 ⭐ If this repository helped you, don't forget to star it!
 </p>
+
 
 
 
