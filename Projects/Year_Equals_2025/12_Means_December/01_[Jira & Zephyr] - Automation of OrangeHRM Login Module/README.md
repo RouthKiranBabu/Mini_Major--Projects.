@@ -1,23 +1,16 @@
-<p align="center">
-  <a href="#table-of-contents"><strong>⬇️ Click to Expand Table of Contents</strong></a>
-</p>
-
----
-
 ## 📚 Table of Contents
 <details>
 <summary><strong>Click to expand</strong></summary>
 
-- 🚀 Main Title  
-- 🧩 Sub Title  
-- ⚡ One-Line Project Summary  
+- 🚀 [Main Title](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2025/12_Means_December/01_%5BJira%20%26%20Zephyr%5D%20-%20Automation%20of%20OrangeHRM%20Login%20Module#-orangehrm-login-automation-framework)
+- ⚡ One-Line Project Summary
 - 🎯 Aim / Objective  
-- 🔥 Real-World Problem Statement  
-- 🧰 Tech Stack Used  
-- 🧰 Challenges Faced & Solutions  
-- 🧰 How to Run the Project (Setup & Execution)  
-- 1️⃣ Proof of Work (Support & Connect)  
-- 👉 Author  
+- 🔥 [Real-World Problem Statement](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2025/12_Means_December/01_%5BJira%20%26%20Zephyr%5D%20-%20Automation%20of%20OrangeHRM%20Login%20Module#-real-world-problem-statement)
+- 🧰 [Tech Stack Used](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2025/12_Means_December/01_%5BJira%20%26%20Zephyr%5D%20-%20Automation%20of%20OrangeHRM%20Login%20Module#-tech-stack-used)
+- 🧰 [Challenges Faced & Solutions](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2025/12_Means_December/01_%5BJira%20%26%20Zephyr%5D%20-%20Automation%20of%20OrangeHRM%20Login%20Module#-challenges-faced--solutions)
+- 🧰 [How to Run the Project (Setup & Execution)](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2025/12_Means_December/01_%5BJira%20%26%20Zephyr%5D%20-%20Automation%20of%20OrangeHRM%20Login%20Module#-how-to-run-the-project-setup--execution) 
+- 1️⃣ [Proof of Work (Support & Connect)](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2025/12_Means_December/01_%5BJira%20%26%20Zephyr%5D%20-%20Automation%20of%20OrangeHRM%20Login%20Module#1%EF%B8%8F%E2%83%A3-proof-of-work--support--connect)
+- 👨‍💻 [Author](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2025/12_Means_December/01_%5BJira%20%26%20Zephyr%5D%20-%20Automation%20of%20OrangeHRM%20Login%20Module#%E2%80%8D-author)
 
 </details>
 
@@ -65,14 +58,8 @@ This project addresses how SDETs automate critical login scenarios, manage test 
   <a href="https://www.getzephyr.com/" target="_blank">
     <img src="https://img.shields.io/badge/Zephyr-1E90FF?style=for-the-badge"/>
   </a>
-  <a href="https://www.orangehrm.com/" target="_blank">
+  <a href="https://opensource-demo.orangehrmlive.com/web/index.php/auth/login" target="_blank">
     <img src="https://img.shields.io/badge/OrangeHRM-FF6A00?style=for-the-badge"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-  <a href="https://maven.apache.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
   </a>
 </p>
 
@@ -99,7 +86,7 @@ This project addresses how SDETs automate critical login scenarios, manage test 
 <td align="center" width="50%">
 
 ### ▶️ Execution Walkthrough (GIF)
-<img src="assets/execution.gif" alt="Execution GIF" width="100%"/>
+<img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2025/12_Means_December/01_%5BJira%20%26%20Zephyr%5D%20-%20Automation%20of%20OrangeHRM%20Login%20Module/Test%20Passed.gif" alt="Execution GIF" width="100%"/>
 
 </td>
 <td align="center" width="50%">
@@ -107,23 +94,13 @@ This project addresses how SDETs automate critical login scenarios, manage test 
 ### 📘 Step-by-Step Automation Guide  
 👉 **Click below to open the PDF**
 
-<a href="docs/OrangeHRM_Login_Automation_Guide.pdf" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2025/12_Means_December/01_%5BJira%20%26%20Zephyr%5D%20-%20Automation%20of%20OrangeHRM%20Login%20Module/Guide%20For%20You.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Open%20PDF%20Guide-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 </td>
 </tr>
 </table>
-
----
-
-<h3 align="center">📂 Test Data Included</h3>
-
-<p align="center">
-✔️ CSV file for data-driven testing  
-✔️ Excel (.xlsx) version for business readability  
-✔️ Demonstrates real-world test data management
-</p>
 
 ---
 
@@ -134,16 +111,16 @@ This project addresses how SDETs automate critical login scenarios, manage test 
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/routhkiranbabu/" target="_blank">
     <img src="https://img.shields.io/badge/Like%20•%20Comment%20•%20Share%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/" target="_blank">
+  </a></br>
+  <a href="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Submissions/README.md#-submissions-by-year--month" target="_blank">
     <img src="https://img.shields.io/badge/Upvote%20My%20LeetCode%20Submission-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://www.strava.com/" target="_blank">
+  <a href="https://routhkiranbabu.github.io/Strava_stats/" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20My%20Live%20Strava%20Stats-FC4C02?style=for-the-badge&logo=strava&logoColor=white"/>
   </a>
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/RouthKiranBabu" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
