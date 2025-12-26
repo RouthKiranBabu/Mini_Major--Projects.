@@ -6,7 +6,7 @@ describe('template spec', () => {
   });
   // Executes after each it block
   afterEach(() => {
-    // Wait for 4 seconds after it block
+    // Wait for 4 seconds after "it" block
     cy.wait(4000)
   });
   it('Validate Title', () => {
@@ -48,4 +48,5 @@ describe('template spec', () => {
     .should("include.text", "ogin")
     .and("be.visible")
   });
+
 })
