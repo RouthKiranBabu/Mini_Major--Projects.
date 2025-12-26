@@ -112,7 +112,8 @@ This project addresses how SDETs automate critical login scenarios, manage test 
 
 <p align="center">
   <a href="https://www.linkedin.com/posts/routhkiranbabu_im-happy-to-share-this-test-automation-management-activity-7409159204982194177-6QmN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0fSW0BCXvPinW6E3cbBZFekfnprC0b-FU" target="_blank">
-    <img src="https://img.shields.io/badge/Like%20•%20Comment%20•%20Share%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/👍%20Like%20|%20💬%20Comment%20|%20🔁%20Share%20on%20LinkedIn%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   </a></br>
   <a href="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Submissions/README.md#-submissions-by-year--month" target="_blank">
     <img src="https://img.shields.io/badge/Upvote%20My%20LeetCode%20Submission-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
