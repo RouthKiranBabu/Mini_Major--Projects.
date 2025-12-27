@@ -2,20 +2,20 @@
 <details>
 <summary><strong>Click to expand</strong></summary>
 
-- 🚀 Project Title
+- 🚀 [Project Title](https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2025/12_Means_December/03_%5BSelenium%20&%20TestNG%5D%20-%20To%20Check%20Title,%20URL%20&%20Text%20Validation%20Using%20Assertions/README.md#-selenium-automation--title-url--text-validation)
 - ⚡ One-Line Project Summary  
 - 🎯 Aim / Objective  
 - 🔥 Real-World Problem Statement  
-- 🧠 Core Concept Demonstrated – Selenium + TestNG Lifecycle  
+- 🧠 [Core Concept Demonstrated – Selenium + TestNG Lifecycle](https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2025/12_Means_December/03_%5BSelenium%20&%20TestNG%5D%20-%20To%20Check%20Title,%20URL%20&%20Text%20Validation%20Using%20Assertions/README.md#-core-concept-demonstrated--selenium--testng-lifecycle)  
 - 🧪 Test Scenarios Covered  
-- 📂 Actual Automation Code (With Comments)  
+- 📂 [Actual Automation Code (With Comments)](https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2025/12_Means_December/03_%5BSelenium%20&%20TestNG%5D%20-%20To%20Check%20Title,%20URL%20&%20Text%20Validation%20Using%20Assertions/README.md#-actual-automation-code-with-comments)  
 - 🧰 Tech Stack Used  
 - 🧩 Selenium & TestNG Features Utilized  
-- 🛠️ Challenges Faced & Solutions  
+- 🛠️ [Challenges Faced & Solutions](https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2025/12_Means_December/03_%5BSelenium%20&%20TestNG%5D%20-%20To%20Check%20Title,%20URL%20&%20Text%20Validation%20Using%20Assertions/README.md#%EF%B8%8F-challenges-faced--solutions)  
 - 📂 Project Structure Overview  
-- ▶️ Execution Demo & Documentation  
+- ▶️ [Execution Demo & Documentation](https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2025/12_Means_December/03_%5BSelenium%20&%20TestNG%5D%20-%20To%20Check%20Title,%20URL%20&%20Text%20Validation%20Using%20Assertions/README.md#%EF%B8%8F-execution-demo---documentation)  
 - 🧠 Key Learnings for SDET Role  
-- 🔗 Proof of Work — Support & Connect  
+- 🔗 [Proof of Work — Support & Connect](https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2025/12_Means_December/03_%5BSelenium%20&%20TestNG%5D%20-%20To%20Check%20Title,%20URL%20&%20Text%20Validation%20Using%20Assertions/README.md#-proof-of-work--support--connect)  
 - 👨‍💻 Author  
 
 </details>
