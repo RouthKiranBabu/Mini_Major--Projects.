@@ -101,7 +101,7 @@ with <b>clear inline comments</b> explaining browser setup, priorities, assertio
 </p>
 
 <p align="center">
-<a href="PUT_YOUR_GITHUB_CODE_FILE_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2025/12_Means_December/03_%5BSelenium%20%26%20TestNG%5D%20-%20To%20Check%20Title%2C%20URL%20%26%20Text%20Validation%20Using%20Assertions/Artifact_id/src/test/java/_Package/_Java_Class.java" target="_blank">
   <img src="https://img.shields.io/badge/View%20Actual%20Selenium%20Code-Click%20Here-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -172,14 +172,14 @@ with <b>clear inline comments</b> explaining browser setup, priorities, assertio
 <td align="center" width="50%">
 
 <b>🎬 Selenium Execution Demo</b><br/><br/>
-<img src="PUT_YOUR_EXECUTION_GIF_LINK_HERE" width="100%"/>
+<img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2025/12_Means_December/03_%5BSelenium%20%26%20TestNG%5D%20-%20To%20Check%20Title%2C%20URL%20%26%20Text%20Validation%20Using%20Assertions/Documents%20and%20Gifs/How%20to%20Execute.gif" width="100%"/>
 
 </td>
 
 <td align="center" width="50%">
 
 <b>📘 Step-by-Step Documentation</b><br/><br/>
-<a href="PUT_YOUR_PDF_DOCUMENT_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2025/12_Means_December/03_%5BSelenium%20%26%20TestNG%5D%20-%20To%20Check%20Title%2C%20URL%20%26%20Text%20Validation%20Using%20Assertions/Documents%20and%20Gifs/%F0%9F%A7%AA%20Automation%20Testing%20of%20OrangeHRM%20using%20Selenium%20%26%20TestNG%20(Maven%20Project).pdf" target="_blank">
   <img src="https://img.shields.io/badge/View%20PDF-Documentation-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
 
@@ -207,9 +207,15 @@ with <b>clear inline comments</b> explaining browser setup, priorities, assertio
 </p>
 
 <p align="center">
-  <a href="PUT_YOUR_LINKEDIN_POST_LINK_HERE" target="_blank">
+  <a href="https://www.linkedin.com/posts/routhkiranbabu_im-happy-to-share-this-cypress-automation-activity-7409872664175247360-9lff?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0fSW0BCXvPinW6E3cbBZFekfnprC0b-FU" target="_blank">
     <img src="https://img.shields.io/badge/👍%20Like%20|%20💬%20Comment%20|%20🔁%20Share%20the%20LinkedIn%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a><br/>
+  </a></br>
+  <a href="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Submissions/README.md#-submissions-by-year--month" target="_blank">
+    <img src="https://img.shields.io/badge/Upvote%20My%20LeetCode%20Submission-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://routhkiranbabu.github.io/Strava_stats/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20My%20Live%20Strava%20Stats-FC4C02?style=for-the-badge&logo=strava&logoColor=white"/>
+  </a>
   <a href="https://github.com/RouthKiranBabu" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
