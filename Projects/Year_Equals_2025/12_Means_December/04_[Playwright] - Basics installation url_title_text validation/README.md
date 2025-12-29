@@ -102,7 +102,7 @@ with <b>clear inline comments</b> explaining hooks, assertions, and validations.
 </p>
 
 <p align="center">
-<a href="<ADD_PLAYWRIGHT_CODE_GITHUB_LINK_HERE>" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2025/12_Means_December/04_%5BPlaywright%5D%20-%20Basics%20installation%20url_title_text%20validation/tests/spec_file.spec.js" target="_blank">
   <img src="https://img.shields.io/badge/View%20Actual%20Playwright%20Code-Click%20Here-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -171,15 +171,15 @@ with <b>clear inline comments</b> explaining hooks, assertions, and validations.
 <tr>
 <td align="center" width="50%">
 
-<b>🎬 Playwright Execution Demo</b><br/><br/>
-<img src="<ADD_EXECUTION_GIF_LINK_HERE>" width="100%"/>
+<b>🎬 Playwright Installation Demo</b><br/><br/>
+<img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2025/12_Means_December/04_%5BPlaywright%5D%20-%20Basics%20installation%20url_title_text%20validation/Document%20and%20Gifs/Formula%20To%20Remember.gif" width="100%"/>
 
 </td>
 
 <td align="center" width="50%">
 
 <b>🐞 Playwright Debug Mode Demo</b><br/><br/>
-<img src="<ADD_DEBUG_GIF_LINK_HERE>" width="100%"/>
+<img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2025/12_Means_December/04_%5BPlaywright%5D%20-%20Basics%20installation%20url_title_text%20validation/Document%20and%20Gifs/How%20to%20Execute%20Gif.gif" width="100%"/>
 
 </td>
 </tr>
@@ -189,7 +189,7 @@ with <b>clear inline comments</b> explaining hooks, assertions, and validations.
 
 <p align="center">
 <b>📘 Step-by-Step Installation & Setup Guide</b><br/><br/>
-<a href="<ADD_PDF_LINK_HERE>" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2025/12_Means_December/04_%5BPlaywright%5D%20-%20Basics%20installation%20url_title_text%20validation/Document%20and%20Gifs/%F0%9F%8E%AF%20Playwright%20Automation.pdf" target="_blank">
   <img src="https://img.shields.io/badge/View%20PDF-Documentation-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
 </p>
@@ -217,6 +217,12 @@ with <b>clear inline comments</b> explaining hooks, assertions, and validations.
   <a href="<ADD_LINKEDIN_POST_LINK_HERE>" target="_blank">
     <img src="https://img.shields.io/badge/👍%20Like%20|%20💬%20Comment%20|%20🔁%20Share%20the%20LinkedIn%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a></br>
+  <a href="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Submissions/README.md#-submissions-by-year--month" target="_blank">
+    <img src="https://img.shields.io/badge/Upvote%20My%20LeetCode%20Submission-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://routhkiranbabu.github.io/Strava_stats/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20My%20Live%20Strava%20Stats-FC4C02?style=for-the-badge&logo=strava&logoColor=white"/>
+  </a>
   <a href="https://github.com/RouthKiranBabu" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
