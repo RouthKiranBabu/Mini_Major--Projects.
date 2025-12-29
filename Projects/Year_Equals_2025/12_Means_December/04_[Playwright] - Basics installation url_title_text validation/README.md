@@ -2,20 +2,20 @@
 <details>
 <summary><strong>Click to expand</strong></summary>
 
-- 🎭 [Project Title](#-playwright-automation--title-url--text-validation)
+- 🎭 [Project Title](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2025/12_Means_December/04_%5BPlaywright%5D%20-%20Basics%20installation%20url_title_text%20validation#-playwright-automation--title-url--text-validation)
 - ⚡ One-Line Project Summary  
 - 🎯 Aim / Objective  
-- 🔥 Real-World Problem Statement  
+- 🔥 [Real-World Problem Statement](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2025/12_Means_December/04_%5BPlaywright%5D%20-%20Basics%20installation%20url_title_text%20validation#-real-world-problem-statement)  
 - 🧠 Core Concept Demonstrated – Playwright Test Lifecycle  
 - 🧪 Test Scenarios Covered  
-- 📂 Actual Automation Code (With Comments)  
+- 📂 [Actual Automation Code (With Comments)](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2025/12_Means_December/04_%5BPlaywright%5D%20-%20Basics%20installation%20url_title_text%20validation#-actual-automation-code-with-comments)  
 - 🧰 Tech Stack Used  
 - 🧩 Playwright Features Utilized  
-- 🛠️ Challenges Faced & Solutions  
+- 🛠️ [Challenges Faced & Solutions](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2025/12_Means_December/04_%5BPlaywright%5D%20-%20Basics%20installation%20url_title_text%20validation#%EF%B8%8F-challenges-faced--solutions)  
 - 📂 Project Structure Overview  
-- ▶️ Execution Demo & Documentation  
+- ▶️ [Execution Demo & Documentation](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2025/12_Means_December/04_%5BPlaywright%5D%20-%20Basics%20installation%20url_title_text%20validation#%EF%B8%8F-execution-demo---documentation)  
 - 🧠 Key Learnings for SDET Role  
-- 🔗 Proof of Work — Support & Connect  
+- 🔗 [Proof of Work — Support & Connect](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2025/12_Means_December/04_%5BPlaywright%5D%20-%20Basics%20installation%20url_title_text%20validation#-proof-of-work--support--connect)  
 - 👨‍💻 Author  
 
 </details>
