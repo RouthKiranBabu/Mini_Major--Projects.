@@ -3,7 +3,7 @@ This repository Consists of latest project I have been involved as an SDET. Hope
 
 ---
 
-<h1 align="center">📅 Projects by Year & Month</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Tear%20Off%20Calendar.webp" alt="Tear Off Calendar" width="40" height="40" /> Projects by Year & Month</h1>
 
 <table align="center">
   <thead>
