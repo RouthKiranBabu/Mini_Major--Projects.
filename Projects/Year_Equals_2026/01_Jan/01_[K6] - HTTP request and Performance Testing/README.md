@@ -2,20 +2,20 @@
 <details>
 <summary><strong>Click to expand</strong></summary>
 
-- 🚀 Project Title  
+- 🚀 [Project Title](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/01_%5BK6%5D%20-%20HTTP%20request%20and%20Performance%20Testing#-k6-performance-testing--load-test-with-virtual-users)  
 - ⚡ One-Line Project Summary  
 - 🎯 Aim / Objective  
 - 🔥 Real-World Problem Statement  
-- 🧠 Core Concept Demonstrated – k6 Load Testing  
+- 🧠 [Core Concept Demonstrated – k6 Load Testing](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/01_%5BK6%5D%20-%20HTTP%20request%20and%20Performance%20Testing#-core-concept-demonstrated--k6-load-testing)  
 - 🧪 Test Scenarios Covered  
-- 📂 Actual Performance Test Code (With Comments)  
+- 📂 [Actual Performance Test Code (With Comments)](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/01_%5BK6%5D%20-%20HTTP%20request%20and%20Performance%20Testing#-actual-performance-test-code-with-comments)  
 - 🧰 Tech Stack Used  
 - 🧩 k6 Features Utilized  
-- 🛠️ Challenges Faced & Solutions  
+- 🛠️ [Challenges Faced & Solutions](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/01_%5BK6%5D%20-%20HTTP%20request%20and%20Performance%20Testing#%EF%B8%8F-challenges-faced--solutions)  
 - 📂 Project Structure Overview  
-- ▶️ Execution Demo & Documentation  
+- ▶️ [Execution Demo & Documentation](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/01_%5BK6%5D%20-%20HTTP%20request%20and%20Performance%20Testing#%EF%B8%8F-execution-demo---documentation)  
 - 🧠 Key Learnings for SDET Role  
-- 🔗 Proof of Work — Support & Connect  
+- 🔗 [Proof of Work — Support & Connect](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/01_%5BK6%5D%20-%20HTTP%20request%20and%20Performance%20Testing#-proof-of-work--support--connect)  
 - 👨‍💻 Author  
 
 </details>
