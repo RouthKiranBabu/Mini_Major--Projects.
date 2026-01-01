@@ -14,7 +14,64 @@ This repository Consists of latest project I have been involved as an SDET. Hope
   </thead>
 
   <tbody>
-    <!-- =================== 2025 =================== -->
+<!-- =================== 2025 =================== -->
+    <tr>
+      <td align="center"><strong>2026</strong></td>
+      <td align="center">
+
+
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan" target="_blank">
+  <img src="https://img.shields.io/badge/January%20|%20Open%20Projects-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!--
+<a href="https://github.com/RouthKiranBabu/mini_major_projects/tree/main/2025/February" target="_blank">
+  <img src="https://img.shields.io/badge/February%20|%20Open%20Projects-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/RouthKiranBabu/mini_major_projects/tree/main/2025/March" target="_blank">
+  <img src="https://img.shields.io/badge/March%20|%20Open%20Projects-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/RouthKiranBabu/mini_major_projects/tree/main/2025/April" target="_blank">
+  <img src="https://img.shields.io/badge/April%20|%20Open%20Projects-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/RouthKiranBabu/mini_major_projects/tree/main/2025/May" target="_blank">
+  <img src="https://img.shields.io/badge/May%20|%20Open%20Projects-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/RouthKiranBabu/mini_major_projects/tree/main/2025/June" target="_blank">
+  <img src="https://img.shields.io/badge/June%20|%20Open%20Projects-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/RouthKiranBabu/mini_major_projects/tree/main/2025/July" target="_blank">
+  <img src="https://img.shields.io/badge/July%20|%20Open%20Projects-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/RouthKiranBabu/mini_major_projects/tree/main/2025/August" target="_blank">
+  <img src="https://img.shields.io/badge/August%20|%20Open%20Projects-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/RouthKiranBabu/mini_major_projects/tree/main/2025/September" target="_blank">
+  <img src="https://img.shields.io/badge/September%20|%20Open%20Projects-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/RouthKiranBabu/mini_major_projects/tree/main/2025/October" target="_blank">
+  <img src="https://img.shields.io/badge/October%20|%20Open%20Projects-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/RouthKiranBabu/mini_major_projects/tree/main/2025/November" target="_blank">
+  <img src="https://img.shields.io/badge/November%20|%20Open%20Projects-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2025/12_Means_December" target="_blank">
+  <img src="https://img.shields.io/badge/December%20|%20Open%20Projects-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
+</a>-->
+
+  </td>
+  </tr>
+<!-- =================== 2025 =================== -->
     <tr>
       <td align="center"><strong>2025</strong></td>
       <td align="center">
