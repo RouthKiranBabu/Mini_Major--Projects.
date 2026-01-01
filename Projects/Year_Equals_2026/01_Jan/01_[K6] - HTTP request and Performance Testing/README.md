@@ -99,7 +99,7 @@ This section provides direct access to the <b>actual k6 performance test script<
 </p>
 
 <p align="center">
-<a href="YOUR_K6_CODE_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/01_%5BK6%5D%20-%20HTTP%20request%20and%20Performance%20Testing/JavaScript.js" target="_blank">
   <img src="https://img.shields.io/badge/View%20Actual%20k6%20Code-Click%20Here-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -144,12 +144,12 @@ This section provides direct access to the <b>actual k6 performance test script<
 <h3 align="center">▶️ Execution Demo & 📄 Documentation</h3> <table align="center"> <tr> <td align="center" width="50%">
 
 <b>🎬 k6 Execution Demo</b><br/><br/>
-<img src="YOUR_GIF_LINK_HERE" width="100%"/>
+<img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/01_%5BK6%5D%20-%20HTTP%20request%20and%20Performance%20Testing/Document%20and%20Gif/video.gif" width="100%"/>
 
 <p align="center"> Shows writing the test → executing via CLI → observing real-time results </p> </td> <td align="center" width="50%">
 
 <b>📘 Step-by-Step Documentation</b><br/><br/>
-<a href="YOUR_PDF_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/01_%5BK6%5D%20-%20HTTP%20request%20and%20Performance%20Testing/Document%20and%20Gif/%F0%9F%9A%80%20k6%20Performance%20Testing%20Project.pdf" target="_blank">
 <img src="https://img.shields.io/badge/View%20PDF-Installation%20&%20Usage-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
 
