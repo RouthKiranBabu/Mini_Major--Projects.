@@ -2,20 +2,20 @@
 <details>
 <summary><strong>Click to expand</strong></summary>
 
-- 🚀 Project Title  
+- 🚀 [Project Title](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/02_%5BCucumber%2C%20Junit%2C%20%26%20Selenium%5D%20-%20Feature%20Requirements%20to%20Executable%20Tests#-cucumber-bdd-automation--selenium--java)  
 - ⚡ One-Line Project Summary  
 - 🎯 Aim / Objective  
 - 🔥 Real-World Problem Statement  
-- 🧠 Core Concept Demonstrated – Cucumber BDD + POM  
+- 🧠 [Core Concept Demonstrated – Cucumber BDD + POM](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/02_%5BCucumber%2C%20Junit%2C%20%26%20Selenium%5D%20-%20Feature%20Requirements%20to%20Executable%20Tests#-core-concept-demonstrated--cucumber-bdd--page-object-model)  
 - 🧪 Test Scenarios Covered  
-- 📂 Actual Automation Code (Feature, Steps, POM, Runner)  
-- 🧰 Tech Stack Used  
+- 📂 [Actual Automation Code (Feature, Steps, POM, Runner)](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/02_%5BCucumber%2C%20Junit%2C%20%26%20Selenium%5D%20-%20Feature%20Requirements%20to%20Executable%20Tests#-actual-automation-code-with-comments)  
+- 🧰 [Tech Stack Used](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/02_%5BCucumber%2C%20Junit%2C%20%26%20Selenium%5D%20-%20Feature%20Requirements%20to%20Executable%20Tests#%EF%B8%8F-tech-stack-used)  
 - 🧩 Cucumber & Selenium Features Utilized  
-- 🛠️ Challenges Faced & Solutions  
+- 🛠️ [Challenges Faced & Solutions](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/02_%5BCucumber%2C%20Junit%2C%20%26%20Selenium%5D%20-%20Feature%20Requirements%20to%20Executable%20Tests#%EF%B8%8F-challenges-faced--solutions)  
 - 📂 Project Structure Overview  
-- ▶️ Execution Demo & Documentation  
+- ▶️ [Execution Demo & Documentation](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/02_%5BCucumber%2C%20Junit%2C%20%26%20Selenium%5D%20-%20Feature%20Requirements%20to%20Executable%20Tests#%EF%B8%8F-execution-demo---documentation)  
 - 🧠 Key Learnings for SDET Role  
-- 🔗 Proof of Work — Support & Connect  
+- 🔗 [Proof of Work — Support & Connect](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/02_%5BCucumber%2C%20Junit%2C%20%26%20Selenium%5D%20-%20Feature%20Requirements%20to%20Executable%20Tests#-proof-of-work--support--connect)  
 - 👨‍💻 Author  
 
 </details>
