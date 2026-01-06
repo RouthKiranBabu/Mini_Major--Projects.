@@ -100,7 +100,7 @@ This project provides direct access to the <b>complete working automation framew
 ### 🔹 Feature File (Business Layer)
 
 <p align="center">
-<a href="FEATURE_FILE_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/02_%5BCucumber%2C%20Junit%2C%20%26%20Selenium%5D%20-%20Feature%20Requirements%20to%20Executable%20Tests/project_id/Features/Form.feature" target="_blank">
   <img src="https://img.shields.io/badge/View%20Cucumber%20Feature%20File-Gherkin%20Steps-6DB33F?style=for-the-badge&logo=cucumber&logoColor=white"/>
 </a>
 </p>
@@ -110,7 +110,7 @@ This project provides direct access to the <b>complete working automation framew
 ### 🔹 Step Definitions (Glue Layer)
 
 <p align="center">
-<a href="STEP_DEFINITION_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/02_%5BCucumber%2C%20Junit%2C%20%26%20Selenium%5D%20-%20Feature%20Requirements%20to%20Executable%20Tests/project_id/src/test/java/stepDefinitions/Steps.java" target="_blank">
   <img src="https://img.shields.io/badge/View%20Step%20Definitions-Java%20Glue%20Code-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
 </p>
@@ -120,7 +120,7 @@ This project provides direct access to the <b>complete working automation framew
 ### 🔹 Page Object Model (UI Layer)
 
 <p align="center">
-<a href="PAGE_OBJECT_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/02_%5BCucumber%2C%20Junit%2C%20%26%20Selenium%5D%20-%20Feature%20Requirements%20to%20Executable%20Tests/project_id/src/test/java/pageObjects/FormPage.java" target="_blank">
   <img src="https://img.shields.io/badge/View%20Page%20Object%20Model-Selenium%20POM-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 </a>
 </p>
@@ -130,7 +130,7 @@ This project provides direct access to the <b>complete working automation framew
 ### 🔹 Test Runner (Execution Layer)
 
 <p align="center">
-<a href="TEST_RUNNER_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/02_%5BCucumber%2C%20Junit%2C%20%26%20Selenium%5D%20-%20Feature%20Requirements%20to%20Executable%20Tests/project_id/src/test/java/testRunner/testRun.java" target="_blank">
   <img src="https://img.shields.io/badge/View%20Cucumber%20Test%20Runner-JUnit%20Execution-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
 </a>
 </p>
@@ -211,14 +211,14 @@ This project provides direct access to the <b>complete working automation framew
 <td align="center" width="50%">
 
 <b>🎬 Automation Execution GIF</b><br/><br/>
-<img src="GIF_LINK_HERE" width="100%"/>
+<img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/02_%5BCucumber%2C%20Junit%2C%20%26%20Selenium%5D%20-%20Feature%20Requirements%20to%20Executable%20Tests/Gif%20and%20Document/Gifile.gif" width="100%"/>
 
 </td>
 
 <td align="center" width="50%">
 
 <b>📘 Cucumber Integration Guide (PDF)</b><br/><br/>
-<a href="PDF_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/02_%5BCucumber%2C%20Junit%2C%20%26%20Selenium%5D%20-%20Feature%20Requirements%20to%20Executable%20Tests/Gif%20and%20Document/%F0%9F%93%98%20Cucumber%20BDD%20Automation%20Guide.pdf" target="_blank">
   <img src="https://img.shields.io/badge/View%20PDF-Cucumber%20Integration%20Guide-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
 
