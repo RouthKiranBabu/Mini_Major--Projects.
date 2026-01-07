@@ -1,6 +1,3 @@
-# -Mini-Major--projects
-This repository Consists of latest project I have been involved as an SDET. Hope you feel interesting. Feel free to reach out.
-
 ---
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Tear%20Off%20Calendar.webp" alt="Tear Off Calendar" width="40" height="40" /> Projects by Year & Month</h1>
@@ -132,6 +129,16 @@ This repository Consists of latest project I have been involved as an SDET. Hope
 
 ---
 
+## 🔗 View Complete Repository
+
+<p align="center">
+  <a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
 # 🚀 Mini & Major Projects — Yearly Overview
 
 > 📌 Click on any month to open the projects created during that period.  
@@ -144,16 +151,6 @@ This repository Consists of latest project I have been involved as an SDET. Hope
 - Makes it easy for recruiters to **navigate projects quickly**
 - Highlights **consistency and discipline**
 - Clearly separates work **year-wise**
-
----
-
-## 🔗 View Complete Repository
-
-<p align="center">
-  <a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects" target="_blank">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ---
 
