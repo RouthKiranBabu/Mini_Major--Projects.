@@ -2,20 +2,20 @@
 <details>
 <summary><strong>Click to expand</strong></summary>
 
-- 🚀 Project Title  
+- 🚀 [Project Title](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/03_%5BRestAssured%20%26%20TestNG%5D%20-%20API%20Test%20Automation%20Framework%20Using%20Rest-Assured#-rest-assured-api-automation-framework)  
 - ⚡ One-Line Project Summary  
 - 🎯 Aim / Objective  
 - 🔥 Real-World Problem Statement  
-- 🧠 Core Concept Demonstrated – REST Assured API Automation  
+- 🧠 [Core Concept Demonstrated – REST Assured API Automation](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/03_%5BRestAssured%20%26%20TestNG%5D%20-%20API%20Test%20Automation%20Framework%20Using%20Rest-Assured#-core-concept-demonstrated--rest-assured-api-automation)  
 - 🧪 Test Scenarios Covered  
-- 📂 Actual Automation Code (With Comments)  
+- 📂 [Actual Automation Code (With Comments)](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/03_%5BRestAssured%20%26%20TestNG%5D%20-%20API%20Test%20Automation%20Framework%20Using%20Rest-Assured#-actual-automation-code-with-comments)  
 - 🧰 Tech Stack Used  
 - 🧩 REST Assured Features Utilized  
-- 🛠️ Challenges Faced & Solutions  
+- 🛠️ [Challenges Faced & Solutions](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/03_%5BRestAssured%20%26%20TestNG%5D%20-%20API%20Test%20Automation%20Framework%20Using%20Rest-Assured#%EF%B8%8F-challenges-faced--solutions)  
 - 📂 Project Structure Overview  
-- ▶️ Execution Demo & Documentation  
+- ▶️ [Execution Demo & Documentation](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/03_%5BRestAssured%20%26%20TestNG%5D%20-%20API%20Test%20Automation%20Framework%20Using%20Rest-Assured#%EF%B8%8F-execution-demo---documentation)  
 - 🧠 Key Learnings for SDET Role  
-- 🔗 Proof of Work — Support & Connect  
+- 🔗 [Proof of Work — Support & Connect](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/03_%5BRestAssured%20%26%20TestNG%5D%20-%20API%20Test%20Automation%20Framework%20Using%20Rest-Assured#-proof-of-work--support--connect)  
 - 👨‍💻 Author  
 
 </details>
