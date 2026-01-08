@@ -191,10 +191,6 @@ Client → HTTP Request → Server → HTTP Response → Client
 <td align="center" width="50%">
 
 <b>📘 REST Assured Project Documentation</b><br/><br/>
-<p align="center">
-This PDF contains complete project explanation including framework design, test scenarios, execution strategy, and recruiter-ready documentation.
-</p>
-
 <a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/03_%5BRestAssured%20%26%20TestNG%5D%20-%20API%20Test%20Automation%20Framework%20Using%20Rest-Assured/Document%20and%20Gif/REST%20Assured%20API%20Automation%20Testing%20Project.pdf" target="_blank">
   <img src="https://img.shields.io/badge/View%20PDF-Project%20Documentation-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
