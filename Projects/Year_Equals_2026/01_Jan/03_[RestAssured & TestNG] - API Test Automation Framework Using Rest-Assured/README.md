@@ -101,7 +101,7 @@ clear comments explaining request construction, validations, and assertions.
 </p>
 
 <p align="center">
-<a href="https://github.com/RouthKiranBabu" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/03_%5BRestAssured%20%26%20TestNG%5D%20-%20API%20Test%20Automation%20Framework%20Using%20Rest-Assured/Project_id/src/test/java/Package_RestAssured/RestAssuredClass.java" target="_blank">
   <img src="https://img.shields.io/badge/View%20Actual%20REST%20Assured%20Code-Click%20Here-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
