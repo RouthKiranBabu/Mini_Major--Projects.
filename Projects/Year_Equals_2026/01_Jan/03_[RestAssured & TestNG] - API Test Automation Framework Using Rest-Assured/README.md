@@ -228,10 +228,10 @@ This PDF contains complete project explanation including framework design, test 
   <a href="https://www.linkedin.com/posts/routhkiranbabu_im-happy-to-share-this-rest-assured-activity-7415032358388555776-u_AK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0fSW0BCXvPinW6E3cbBZFekfnprC0b-FU" target="_blank">
     <img src="https://img.shields.io/badge/👍%20Like%20|%20💬%20Comment%20|%20🔁%20Share%20the%20LinkedIn%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a></br>
-  <a href="https://leetcode.com" target="_blank">
+  <a href="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Submissions/README.md#-submissions-by-year--month" target="_blank">
     <img src="https://img.shields.io/badge/Upvote%20My%20LeetCode%20Submission-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://www.strava.com" target="_blank">
+  <a href="https://routhkiranbabu.github.io/Strava_stats/" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20My%20Live%20Strava%20Stats-FC4C02?style=for-the-badge&logo=strava&logoColor=white"/>
   </a>
   <a href="https://github.com/RouthKiranBabu" target="_blank">
