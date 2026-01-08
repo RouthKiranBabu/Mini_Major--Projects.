@@ -174,7 +174,7 @@ clear comments explaining request construction, validations, and assertions.
 <tr>
 <td align="center" width="50%">
 
-<b>🎬 Client ↔ Server Communication Demo</b><br/><br/>
+<b>[DaVinci Resolve] - 🎬 Client ↔ Server Communication Demo</b><br/><br/>
 <p align="center">
 This GIF visually demonstrates how an <b>HTTP Request</b> is sent from the Client and how the <b>HTTP Response</b> is returned from the Server during REST API execution using REST Assured.
 </p>
