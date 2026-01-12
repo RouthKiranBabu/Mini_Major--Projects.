@@ -2,20 +2,20 @@
 <details>
 <summary><strong>Click to expand</strong></summary>
 
-- 🚀 Project Title  
+- 🚀 [Project Title](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/04_%5BMaven%20%26%20MySQL%5D%20-%20Enterprise-Grade%20Java%20JDBC%20CRUD%20Framework%20with%20MySQL%20using%20Maven#-java-jdbc-crud-automation-framework-using-maven--mysql)  
 - ⚡ One-Line Project Summary  
 - 🎯 Aim / Objective  
-- 🔥 Real-World Problem Statement  
+- 🔥 [Real-World Problem Statement](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/04_%5BMaven%20%26%20MySQL%5D%20-%20Enterprise-Grade%20Java%20JDBC%20CRUD%20Framework%20with%20MySQL%20using%20Maven#-real-world-problem-statement)  
 - 🧠 Core Concept Demonstrated – JDBC Connector as Bridge  
 - 🧪 CRUD Operations Covered  
-- 📂 Actual Java JDBC Code (With Comments)  
+- 📂 [Actual Java JDBC Code (With Comments)](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/04_%5BMaven%20%26%20MySQL%5D%20-%20Enterprise-Grade%20Java%20JDBC%20CRUD%20Framework%20with%20MySQL%20using%20Maven#-actual-java-jdbc-code-with-comments)  
 - 🧰 Tech Stack Used  
 - 🧩 JDBC Features Utilized  
-- 🛠️ Challenges Faced & Solutions  
+- 🛠️ [Challenges Faced & Solutions](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/04_%5BMaven%20%26%20MySQL%5D%20-%20Enterprise-Grade%20Java%20JDBC%20CRUD%20Framework%20with%20MySQL%20using%20Maven#%EF%B8%8F-challenges-faced--solutions)  
 - 📂 Project Structure Overview  
-- ▶️ Execution Demo & Documentation  
+- ▶️ [Execution Demo & Documentation](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/04_%5BMaven%20%26%20MySQL%5D%20-%20Enterprise-Grade%20Java%20JDBC%20CRUD%20Framework%20with%20MySQL%20using%20Maven#%EF%B8%8F-execution-demo---documentation)  
 - 🧠 Key Learnings for SDET Role  
-- 🔗 Proof of Work — Support & Connect  
+- 🔗 [Proof of Work — Support & Connect](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/04_%5BMaven%20%26%20MySQL%5D%20-%20Enterprise-Grade%20Java%20JDBC%20CRUD%20Framework%20with%20MySQL%20using%20Maven#-proof-of-work--support--connect)  
 - 👨‍💻 Author  
 
 </details>
