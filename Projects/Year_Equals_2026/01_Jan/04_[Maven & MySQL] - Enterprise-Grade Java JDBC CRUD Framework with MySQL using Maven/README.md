@@ -93,19 +93,19 @@ This section contains the actual Java JDBC implementation with detailed comments
 </p>
 
 <p align="center">
-  <a href="LINK_TO_INSERT_CODE" target="_blank">
+  <a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/04_%5BMaven%20%26%20MySQL%5D%20-%20Enterprise-Grade%20Java%20JDBC%20CRUD%20Framework%20with%20MySQL%20using%20Maven/mvnProject/src/main/java/mvnPackage/_01_insertUser.java" target="_blank">
     <img src="https://img.shields.io/badge/➕%20Insert%20User-Java%20JDBC-2EA44F?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="LINK_TO_UPDATE_CODE" target="_blank">
+  <a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/04_%5BMaven%20%26%20MySQL%5D%20-%20Enterprise-Grade%20Java%20JDBC%20CRUD%20Framework%20with%20MySQL%20using%20Maven/mvnProject/src/main/java/mvnPackage/_02_Update_CRUD_JDBC.java" target="_blank">
     <img src="https://img.shields.io/badge/✏️%20Update%20User-Java%20JDBC-FFA500?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="LINK_TO_DELETE_CODE" target="_blank">
+  <a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/04_%5BMaven%20%26%20MySQL%5D%20-%20Enterprise-Grade%20Java%20JDBC%20CRUD%20Framework%20with%20MySQL%20using%20Maven/mvnProject/src/main/java/mvnPackage/_03_Delete_CRUD_JDBC.java" target="_blank">
     <img src="https://img.shields.io/badge/🗑️%20Delete%20User-Java%20JDBC-E63946?style=for-the-badge&logo=java&logoColor=white"/>
   </a></br>
   &nbsp;&nbsp;
-  <a href="LINK_TO_FETCH_CODE" target="_blank">
+  <a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/04_%5BMaven%20%26%20MySQL%5D%20-%20Enterprise-Grade%20Java%20JDBC%20CRUD%20Framework%20with%20MySQL%20using%20Maven/mvnProject/src/main/java/mvnPackage/_04_FetchData_JDBC.java" target="_blank">
     <img src="https://img.shields.io/badge/📥%20Fetch%20Users-Java%20JDBC-1D4ED8?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
 </p>
@@ -178,21 +178,21 @@ This section contains the actual Java JDBC implementation with detailed comments
 <td align="center" width="50%">
 
 <b>🎬 JDBC Maven ↔ MySQL Execution Demo</b><br/><br/>
-<img src="YOUR_GIF_LINK_HERE" width="100%"/>
+<img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/04_%5BMaven%20%26%20MySQL%5D%20-%20Enterprise-Grade%20Java%20JDBC%20CRUD%20Framework%20with%20MySQL%20using%20Maven/Documents%20and%20Gif/GifFile.gif" width="100%"/>
 
 </td>
 
 <td align="center" width="50%">
 
 <b>📘 Beginner Step-by-Step Guide</b><br/><br/>
-<a href="YOUR_BEGINNER_DOC_LINK" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/04_%5BMaven%20%26%20MySQL%5D%20-%20Enterprise-Grade%20Java%20JDBC%20CRUD%20Framework%20with%20MySQL%20using%20Maven/Documents%20and%20Gif/01_Insert%20Users%20into%20Table.pdf" target="_blank">
   <img src="https://img.shields.io/badge/View%20Beginner%20Guide-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
 
 <br/><br/>
 
 <b>📙 CRUD Code Documentation</b><br/><br/>
-<a href="YOUR_CRUD_DOC_LINK" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/04_%5BMaven%20%26%20MySQL%5D%20-%20Enterprise-Grade%20Java%20JDBC%20CRUD%20Framework%20with%20MySQL%20using%20Maven/Documents%20and%20Gif/02_Update%20Delete%20and%20Get%20Elements%20from%20MySQL%20table%20using%20JDBC.pdf" target="_blank">
   <img src="https://img.shields.io/badge/View%20CRUD%20Docs-PDF-blue?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
 
@@ -220,9 +220,15 @@ This section contains the actual Java JDBC implementation with detailed comments
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_POST" target="_blank">
+  <a href="https://www.linkedin.com/posts/routhkiranbabu_im-happy-to-share-this-cypress-automation-activity-7409872664175247360-9lff?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0fSW0BCXvPinW6E3cbBZFekfnprC0b-FU" target="_blank">
     <img src="https://img.shields.io/badge/👍%20Like%20|%20💬%20Comment%20|%20🔁%20Share%20the%20LinkedIn%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a><br/>
+  </a></br>
+  <a href="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Submissions/README.md#-submissions-by-year--month" target="_blank">
+    <img src="https://img.shields.io/badge/Upvote%20My%20LeetCode%20Submission-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://routhkiranbabu.github.io/Strava_stats/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20My%20Live%20Strava%20Stats-FC4C02?style=for-the-badge&logo=strava&logoColor=white"/>
+  </a>
   <a href="https://github.com/RouthKiranBabu" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
