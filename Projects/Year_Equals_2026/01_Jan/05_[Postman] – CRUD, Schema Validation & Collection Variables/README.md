@@ -2,20 +2,20 @@
 <details>
 <summary><strong>Click to expand</strong></summary>
 
-- 🚀 Project Title  
+- 🚀 [Project Title](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/05_%5BPostman%5D%20%E2%80%93%20CRUD%2C%20Schema%20Validation%20%26%20Collection%20Variables#-postman-api-automation--crud-schema-validation--collection-variables)  
 - ⚡ One-Line Project Summary  
 - 🎯 Aim / Objective  
-- 🔥 Real-World Problem Statement  
+- 🔥 [Real-World Problem Statement](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/05_%5BPostman%5D%20%E2%80%93%20CRUD%2C%20Schema%20Validation%20%26%20Collection%20Variables#-real-world-problem-statement)  
 - 🧠 Core Concepts Demonstrated – Postman API Automation  
 - 🧪 Test Scenarios Covered  
-- 📂 Actual Postman Collection & Scripts  
+- 📂 [Actual JSON Schema Validation Code (With Comments)](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/05_%5BPostman%5D%20%E2%80%93%20CRUD%2C%20Schema%20Validation%20%26%20Collection%20Variables#-actual-json-schema-validation-code-with-comments)  
 - 🧰 Tech Stack Used  
 - 🧩 Postman Features Utilized  
-- 🛠️ Challenges Faced & Solutions  
+- 🛠️ [Challenges Faced & Solutions](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/05_%5BPostman%5D%20%E2%80%93%20CRUD%2C%20Schema%20Validation%20%26%20Collection%20Variables#%EF%B8%8F-challenges-faced--solutions)  
 - 📂 Project Structure Overview  
-- ▶️ Execution Demo & Documentation  
+- ▶️ [Execution Demo & Documentation](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/05_%5BPostman%5D%20%E2%80%93%20CRUD%2C%20Schema%20Validation%20%26%20Collection%20Variables#%EF%B8%8F-execution-demo---documentation)  
 - 🧠 Key Learnings for SDET Role  
-- 🔗 Proof of Work — Support & Connect  
+- 🔗 [Proof of Work — Support & Connect](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/05_%5BPostman%5D%20%E2%80%93%20CRUD%2C%20Schema%20Validation%20%26%20Collection%20Variables#-proof-of-work--support--connect)  
 - 👨‍💻 Author  
 
 </details>
@@ -177,7 +177,7 @@ This section provides direct access to the actual Postman JSON Schema validation
 <tr>
 <td align="center" width="50%">
 
-<b>🎬 Postman API Execution Demo</b><br/><br/>
+<b>[DaVinci Resolve] - 🎬 Postman API Execution Demo</b><br/><br/>
 <img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/05_%5BPostman%5D%20%E2%80%93%20CRUD%2C%20Schema%20Validation%20%26%20Collection%20Variables/Documents%20and%20Gif/Postman.gif" width="100%"/>
 
 </td>
