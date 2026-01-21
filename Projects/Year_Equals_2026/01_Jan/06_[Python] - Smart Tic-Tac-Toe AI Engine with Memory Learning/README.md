@@ -166,14 +166,14 @@ This section provides direct access to the <b>actual Python game engine implemen
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td align="center" width="70%">
 
 <b>[DaVinci Resolve] - 🎬 Game Execution Demo</b><br/><br/>
 <img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/06_%5BPython%5D%20-%20Smart%20Tic-Tac-Toe%20AI%20Engine%20with%20Memory%20Learning/Document%20and%20Gif/GifFile.gif" width="100%"/>
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="30%">
 
 <b>📘 Project Documentation</b><br/><br/>
 <a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/06_%5BPython%5D%20-%20Smart%20Tic-Tac-Toe%20AI%20Engine%20with%20Memory%20Learning/Document%20and%20Gif/TicTacToe_AI_Project_Documentation.pdf" target="_blank">
