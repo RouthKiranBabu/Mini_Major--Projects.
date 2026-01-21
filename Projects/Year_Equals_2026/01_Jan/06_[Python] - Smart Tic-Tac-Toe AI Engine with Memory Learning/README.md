@@ -2,20 +2,20 @@
 <details>
 <summary><strong>Click to expand</strong></summary>
 
-- 🚀 Project Title  
+- 🚀 [Project Title](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/06_%5BPython%5D%20-%20Smart%20Tic-Tac-Toe%20AI%20Engine%20with%20Memory%20Learning#-smart-tic-tac-toe-ai-engine-python)  
 - ⚡ One-Line Project Summary  
 - 🎯 Aim / Objective  
-- 🔥 Real-World Problem Statement  
+- 🔥 [Real-World Problem Statement](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/06_%5BPython%5D%20-%20Smart%20Tic-Tac-Toe%20AI%20Engine%20with%20Memory%20Learning#-real-world-problem-statement)  
 - 🧠 Core Concept Demonstrated – AI Memory Learning  
 - 🧪 Game Scenarios Covered  
-- 📂 Actual Python Source Code (With Comments)  
+- 📂 [Actual Python Source Code (With Comments)](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/06_%5BPython%5D%20-%20Smart%20Tic-Tac-Toe%20AI%20Engine%20with%20Memory%20Learning#-actual-python-source-code-with-comments)  
 - 🧰 Tech Stack Used  
 - 🧩 Python Concepts Utilized  
-- 🛠️ Challenges Faced & Solutions  
+- 🛠️ [Challenges Faced & Solutions](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/06_%5BPython%5D%20-%20Smart%20Tic-Tac-Toe%20AI%20Engine%20with%20Memory%20Learning#%EF%B8%8F-challenges-faced--solutions)  
 - 📂 Project Structure Overview  
-- ▶️ Execution Demo & Documentation  
+- ▶️ [Execution Demo & Documentation](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/06_%5BPython%5D%20-%20Smart%20Tic-Tac-Toe%20AI%20Engine%20with%20Memory%20Learning#%EF%B8%8F-execution-demo---documentation)  
 - 🧠 Key Learnings for SDET Role  
-- 🔗 Proof of Work — Support & Connect  
+- 🔗 [Proof of Work — Support & Connect](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/06_%5BPython%5D%20-%20Smart%20Tic-Tac-Toe%20AI%20Engine%20with%20Memory%20Learning#-proof-of-work--support--connect)  
 - 👨‍💻 Author  
 
 </details>
