@@ -99,7 +99,7 @@ This section provides direct access to the <b>actual Python game engine implemen
 </p>
 
 <p align="center">
-<a href="#" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/06_%5BPython%5D%20-%20Smart%20Tic-Tac-Toe%20AI%20Engine%20with%20Memory%20Learning/TicTacToe.py" target="_blank">
   <img src="https://img.shields.io/badge/View%20Actual%20Python%20Code-Click%20Here-2EA44F?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 </p>
@@ -168,15 +168,15 @@ This section provides direct access to the <b>actual Python game engine implemen
 <tr>
 <td align="center" width="50%">
 
-<b>🎬 Game Execution Demo</b><br/><br/>
-<img src="#" width="100%"/>
+<b>[DaVinci Resolve] - 🎬 Game Execution Demo</b><br/><br/>
+<img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/06_%5BPython%5D%20-%20Smart%20Tic-Tac-Toe%20AI%20Engine%20with%20Memory%20Learning/Document%20and%20Gif/GifFile.gif" width="100%"/>
 
 </td>
 
 <td align="center" width="50%">
 
 <b>📘 Project Documentation</b><br/><br/>
-<a href="#" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/06_%5BPython%5D%20-%20Smart%20Tic-Tac-Toe%20AI%20Engine%20with%20Memory%20Learning/Document%20and%20Gif/TicTacToe_AI_Project_Documentation.pdf" target="_blank">
   <img src="https://img.shields.io/badge/View%20PDF-Documentation-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
 
@@ -208,6 +208,12 @@ This section provides direct access to the <b>actual Python game engine implemen
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/👍%20Like%20|%20💬%20Comment%20|%20🔁%20Share%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a></br>
+  <a href="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Submissions/README.md#-submissions-by-year--month" target="_blank">
+    <img src="https://img.shields.io/badge/Upvote%20My%20LeetCode%20Submission-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://routhkiranbabu.github.io/Strava_stats/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20My%20Live%20Strava%20Stats-FC4C02?style=for-the-badge&logo=strava&logoColor=white"/>
+  </a>
   <a href="https://github.com/RouthKiranBabu" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
