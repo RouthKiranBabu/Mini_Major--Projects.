@@ -1,0 +1,24 @@
+{
+  "name": "01_express_setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server1": "nodemon server1.js",
+    "server2": "nodemon server2.js",
+    "server3": "nodemon server3.js",
+    "server4": "nodemon server4.js",
+    "server5": "nodemon server5.js",
+    "server6": "nodemon server6.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^4.0.1",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}

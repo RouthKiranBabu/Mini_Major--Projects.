@@ -1,0 +1,326 @@
+To create package.json
+> npm init -y
+
+To install Express library
+> npm i express
+
+To make the development easier: to restart server any time we
+make changes, it makes automatically
+> npm i --save-dev nodemon
+
+in the package.json:
+...
+ "scripts": {
+    "devStart": "nodemon server.js"
+  },
+...
+
+Create server.js as provided above
+
+type
+> npm run devStart
+after that if you write `console.log("hello")` in server.js
+it shows in the terminal
+
+to create express server write the below code
+// imports express library
+const express = require('express')
+// to setup actual server
+const app = express()
+// server listening to the port 3000
+app.listen(3000)
+
+then type, in the web page where you see "Cannot GET /"
+> localhost:3000
+
+"Cannot GET /" meaning theres no route after /
+
+so lets setup the route, to make the get request
+app.get("/", (req, res) => {
+  console.log("shows in console")
+  res.send("Hi") // which shows "Hi" in "/" route
+})
+
+.send is used for testing
+to send the statuscode
+app.get("/", (req, res) => {
+  console.log("shows in console")
+  res.sendStatus(500)
+})
+which shows Internal Server Error in browser
+
+if you want to send the text with status code
+app.get("/", (req, res) => {
+  console.log("shows in console")
+  res.status(500).send("500 status code!")
+})
+inspect by "ctrl + shift + i"
+goto -> "console" gets the status of 500
+
+based on json
+app.get("/", (req, res) => {
+  console.log("shows in console")
+  res.status(500).json({error: "Server Error 500"})
+})
+
+for 200 status, there's no error
+app.get("/", (req, res) => {
+  console.log("shows in console")
+  res.json({error: "Server Error 500"})
+})
+
+// To send a file to the user to download
+// Refresh it to download the file
+app.get("/", (req, res) => {
+  console.log("shows in console")
+  res.download("server.js")
+})
+
+To render the file
+inside the views create the index.html file
+close the server then
+install ejs which is a views engine
+> npm i ejs
+
+then provide, ejs or pug[app.set("view engine", "pug")]
+app.set("view engine", "ejs")
+then change index.html(file in views folder) to index.ejs
+run the server
+
+<h3>Given text: <%= 4 + 4%></h3>
+provides Given text: 8
+which is 4 + 4 = 8
+
+to send server to index.ejs:
+app.set("view engine", "ejs")
+app.get("/", (req, res) => {
+  console.log("shows in console")
+  res.render("index", {text: "How are you!"})
+})
+index.ejs has
+<h4>Text from server: <%= text%></h4>
+
+in server if text is not proper or not in index.ejs like below we get error 
+res.render("index", {textnew: "How are you!"})
+then add defaults in index.ejs like
+<h4>Text from server: <%= locals.text || "Default Value!"%></h4>
+
+
+If there are lots of routers and difficult to manage then
+create a folder routes
+create file users.js in routes folder
+users.js having:
+const express = require("express")
+const router = express.Router()
+router.get("/", (req, res) => {
+    res.send("User Lists")
+})
+router.get("/new", (req, res) => {
+    res.send("User New From")
+})
+module.exports = router
+
+and server.js having:
+const userRouter = require("./routes/users")
+app.use("/users", userRouter)
+then for link http://localhost:3000/users -> User Lists
+for link http://localhost:3000/users/new -> User New From
+similarly you can do that for post routes
+
+If the link has the id, and want to implement that to web 
+like for link http://localhost:3000/users/1 -> Got a user ID: 1
+http://localhost:3000/users/2 -> Got a user ID: 2
+add the below code to users.js
+router.get("/:userId", (req, res) => {
+    res.send(`Got a user ID: ${req.params.userId}`)
+})
+make sure above code is below
+router.get("/new", (req, res) => {
+    res.send("User New From")
+})
+other wise even if /new is provided we dont get User New From
+becouse in express it moves from top to bottom. So dynamic routes
+are provided bottom
+
+for providing put and delete for single router 
+in the users.js
+router.route("/:userId")
+.get((req, res) => {
+    res.send(`Get user with ID ${req.params.userId}`)
+})
+.put((req, res) => {
+    res.send(`Put user with ID ${req.params.userId}`)
+})
+.delete((req, res) => {
+    res.send(`Delete user with ID ${req.params.userId}`)
+})
+
+for the link http://localhost:3000/users/1 -> in console -> { name: 'Engineer' }
+for link http://localhost:3000/users/0 -> in console -> { name: 'Routh' }
+in users.js
+router.route("/:userId")
+.get((req, res) => {
+    res.send(`Get user with ID ${req.params.userId}`)
+    // prints in console
+    console.log(req.user)
+})
+.put((req, res) => {
+    res.send(`Put user with ID ${req.params.userId}`)
+})
+.delete((req, res) => {
+    res.send(`Delete user with ID ${req.params.userId}`)
+})
+const users = [{name: "Routh"}, {name: "Engineer"}]
+router.param("userId", (req, res, next, userId) => {
+  // Sets the Value
+    req.user = users[userId]
+    next()
+})
+
+middleware -> the code that runs between starting of request and ending of request
+middleware function takes req, res and next
+in server.js, function that prints the url
+function logger(req, res, next){
+  console.log(req.originalUrl)
+  next()
+}
+to use it:
+app.use(logger)
+so final code in server.js:
+const express = require("express")
+const app = express()
+app.set("view engine", "ejs")
+app.use(logger)
+app.get("/", (req, res) => {
+  console.log("shows in console")
+  res.render("index", {text: "How are you!"})
+})
+const userRouter = require("./routes/users")
+app.use("/users", userRouter)
+function logger(req, res, next){
+  console.log(req.originalUrl)
+  next()
+}
+app.listen(3000)
+
+make sure "app.use(logger)" provide top of get requests to show 
+it in the console
+
+if you want to use logger for specific get request
+remove "app.use(logger)" or comment it
+then use:
+app.get("/", logger, logger, logger, (req, res) => {
+  console.log("shows in console")
+  res.render("index", {text: "How are you!"})
+})
+go to the link http://localhost:3000/, Refresh it, and at the console we have:
+/
+/
+/
+shows in console
+
+if you want to use logger for users 
+remove logger from server.js 
+and apply in users.js below "const router = express.Router()":
+router.use(logger)
+function logger(req, res, next){
+  console.log(req.originalUrl)
+  next()
+}
+
+if you want to load the html files which are static and does not change 
+remove from server.js:
+app.get("/", (req, res) => {
+  console.log("shows in console")
+  res.render("index", {text: "How are you!"})
+})
+create folder public:
+rename index.ejs to index.html 
+move it to the public folder 
+use middleware in server.js 
+app.use(express.static("public"))
+below const app = express()
+then code:
+const express = require("express")
+const app = express()
+app.use(express.static("public"))
+app.set("view engine", "ejs")
+const userRouter = require("./routes/users")
+app.use("/users", userRouter)
+app.listen(3000)
+
+if public folder has test folder in it and test folder has tt.html
+http://localhost:3000/ -> shows -> index.html 
+http://localhost:3000/test/tt.html -> shows -> tt.html
+
+add below code in users.js
+router.get("/new", (req, res) => {
+    res.render("users/new")
+})
+in the views create users folder and in it create new.ejs file
+<form action="/users" method="POST">
+        <label>First Name
+            <input type="text" name="firstName" value="<%= locals.firstName %>">
+        </label>
+        <button type="submit">Submit</button>
+    </form>
+in users.js add:
+router.post("/", (req, res) => {
+    res.send("Create user!")
+})
+router.get("/new", (req, res) => {
+    res.render("users/new", {firstName: "Test"})
+})
+above html script goes to post router
+in the http://localhost:3000/users/new 
+if you click the submit button 
+shows Create user! in browser
+
+instead of showing Create user! in browser
+if we want to print the user provided in input to the console
+add below code in users.js:
+router.post("/", (req, res) => {
+  // name="firstName" <- in input
+    console.log(req.body.firstName)
+    res.send("Watch the Console!")
+})
+use middleware in server.js:
+app.use(express.urlencoded({extended: true}))
+below:
+app.use(express.static("public"))
+then go to http://localhost:3000/users/new:
+write your firstname and submit:
+it shows Watch the Console!
+in console: it shows what you typed
+
+to add a new user, and redirect to that corresponding url after submit 
+router.post("/", (req, res) => {
+    const isValid = true
+    if (isValid){
+        // add user to users
+        users.push({firstName: req.body.firstName})
+        // completely changes the url
+        res.redirect(`/users/${users.length - 1}`)
+    }else{
+        console.log("Error")
+        // does not chage the url, and keep firstname as it is if isvalid = false
+        res.render("users/new", {firstName: req.body.firstName})
+    }
+})
+router.route("/:userId")
+.get((req, res) => {
+    res.send(`Get user with ID ${req.params.userId}`)
+    console.log(req.user)
+})
+.put(....
+
+to print the query value to console 
+from link: http://localhost:3000/users?name=userName
+in users.js:
+router.get("/", (req, res) => {
+    res.send("User Lists")
+    console.log(req.query.name)
+})
+Watch the terminal:
+/users?name=userName
+userName

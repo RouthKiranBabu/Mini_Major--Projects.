@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- After clicking the submit button 
+     takes to the /users using action as a post(routes/server6user) 
+        router.post("/", (req, res) => {
+            res.send("New User!")
+            // firstName from name="firstName"
+            console.log(`First name: ${req.body.firstName}.`)
+        })-->
+    <form action="/users/new/<%= userID%>" method="POST">
+        <label>First name
+            <input type="text" name="firstName" value="<%= locals.firstName %>">
+        </label></br>
+        <label>Gender
+            <select name="Gender">
+                <option value="">-- Select --</option>
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+                <option value="others">Others</option>
+            </select>
+        </label></br></br>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
