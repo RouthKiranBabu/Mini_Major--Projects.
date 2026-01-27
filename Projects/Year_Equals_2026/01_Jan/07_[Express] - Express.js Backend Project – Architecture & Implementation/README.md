@@ -2,23 +2,23 @@
 <details>
 <summary><strong>Click to expand</strong></summary>
 
-1. [🚀 Project Title](#-expressjs-backend--user-management--routing-architecture)
-2. [📌 One-Line Project Summary](#-one-line-project-summary)
-3. [🎯 Aim / Objective](#-aim--objective)
-4. [🔥 Real-World Problem Statement](#-real-world-problem-statement)
-5. [🧠 Core Concepts Demonstrated – Express.js Backend](#-core-concepts-demonstrated--expressjs-backend)
-6. [🧩 Backend Features Implemented](#-backend-features-implemented)
-7. [📂 Server & Router Code Overview](#-server--router-code-overview)
-8. [📂 Actual Backend Code (With Comments)](#-actual-backend-code-with-comments)
-9. [🧪 Functional Scenarios Covered](#-functional-scenarios-covered)
-10. [🛠️ Tech Stack Used](#-tech-stack-used)
-11. [🧩 Express.js Features Utilized](#-expressjs-features-utilized)
-12. [🛠️ Challenges Faced & Solutions](#-challenges-faced--solutions)
-13. [📂 Project Structure Overview](#-project-structure-overview)
-14. [▶️ Execution Demo & 📄 Documentation](#-execution-demo---documentation)
-15. [🧠 Key Learnings for Backend / SDET Role](#-key-learnings-for-backend--sdet-role)
-16. [🔗 Proof of Work — Support & Connect](#-proof-of-work--support--connect)
-17. [👨‍💻 Author](#-author)
+1. [🚀 Project Title](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/07_%5BExpress%5D%20-%20Express.js%20Backend%20Project%20%E2%80%93%20Architecture%20%26%20Implementation#-expressjs-backend--user-management--routing-architecture)
+2. 📌 One-Line Project Summary
+3. 🎯 Aim / Objective
+4. [🔥 Real-World Problem Statement](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/07_%5BExpress%5D%20-%20Express.js%20Backend%20Project%20%E2%80%93%20Architecture%20%26%20Implementation#-real-world-problem-statement)
+5. 🧠 Core Concepts Demonstrated – Express.js Backend
+6. 🧩 Backend Features Implemented
+7. 📂 Server & Router Code Overview
+8. [📂 Actual Backend Code (With Comments)](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/07_%5BExpress%5D%20-%20Express.js%20Backend%20Project%20%E2%80%93%20Architecture%20%26%20Implementation#-actual-backend-code-with-comments)
+9. 🧪 Functional Scenarios Covered
+10. 🛠️ Tech Stack Used
+11. 🧩 Express.js Features Utilized
+12. [🛠️ Challenges Faced & Solutions](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/07_%5BExpress%5D%20-%20Express.js%20Backend%20Project%20%E2%80%93%20Architecture%20%26%20Implementation#%EF%B8%8F-challenges-faced--solutions)
+13. 📂 Project Structure Overview
+14. [▶️ Execution Demo & 📄 Documentation](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/07_%5BExpress%5D%20-%20Express.js%20Backend%20Project%20%E2%80%93%20Architecture%20%26%20Implementation#%EF%B8%8F-execution-demo---documentation)
+15. 🧠 Key Learnings for Backend / SDET Role
+16. [🔗 Proof of Work — Support & Connect](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/01_Jan/07_%5BExpress%5D%20-%20Express.js%20Backend%20Project%20%E2%80%93%20Architecture%20%26%20Implementation#-proof-of-work--support--connect)
+17. 👨‍💻 Author
 
 </details>
 
