@@ -102,20 +102,38 @@ This project demonstrates how Express.js handles HTTP requests, form data, dynam
 
 ---
 
-<h3 align="center">🔀 User ↔ Browser ↔ Express Flow</h3>
+<h3 align="center">📂 Actual Backend Code (With Comments)</h3>
 
 <p align="center">
-This project visually explains how a user request flows from the browser to the Express server and back.
+This section provides direct access to the <b>actual Express.js backend implementation</b>, including
+<b>clear comments</b> explaining server setup, routing logic, middleware flow, form handling,
+query parameters, and dynamic data rendering.
 </p>
 
 <p align="center">
-<b>📊 Interaction Flow Diagram</b><br/><br/>
-<img src="GIF_LINK_1_HERE" width="90%"/>
+👉 <b>Click the buttons below to view the source code</b>
 </p>
 
 <p align="center">
-<b>🎬 Live User Interaction Demo</b><br/><br/>
-<img src="GIF_LINK_2_HERE" width="90%"/>
+<a href="SERVER_JS_GITHUB_LINK_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Express%20Server%20Code-Click%20Here-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="ROUTER_JS_GITHUB_LINK_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Express%20Router%20Code-Click%20Here-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+<b>🔍 What reviewers will find inside:</b><br/>
+✔ Express server initialization & lifecycle<br/>
+✔ Middleware configuration (<code>express.urlencoded</code>)<br/>
+✔ Modular routing using <code>express.Router()</code><br/>
+✔ GET & POST request handling<br/>
+✔ Dynamic route parameters & <code>router.param()</code><br/>
+✔ Query parameter filtering (<code>req.query</code>)<br/>
+✔ EJS-based server-side rendering<br/>
+✔ Clean backend logic with readable comments
 </p>
 
 ---
@@ -161,15 +179,40 @@ This project visually explains how a user request flows from the browser to the 
 
 ---
 
+---
+
 <h3 align="center">▶️ Execution Demo & 📄 Documentation</h3>
 
 <table align="center">
 <tr>
+
+<td align="center" width="50%">
+
+<b>📊 Interaction Flow – User ↔ Browser ↔ Express</b><br/><br/>
+<img src="INTERACTION_FLOW_GIF_LINK_HERE" width="100%"/>
+
+</td>
+
+<td align="center" width="50%">
+
+<b>🎬 Backend Functional Demo – User Creation & Query Filtering</b><br/><br/>
+<img src="USER_CREATION_AND_QUERY_GIF_LINK_HERE" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<table align="center">
+<tr>
+
 <td align="center" width="50%">
 
 <b>📘 Step-by-Step Implementation Guide</b><br/><br/>
-<a href="PDF_LINK_1_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/View%20PDF-Step--by--Step%20Guide-red?style=for-the-badge&logo=adobeacrobatreader"/>
+<a href="STEP_BY_STEP_PDF_LINK_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/View%20PDF-Implementation%20Guide-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
 
 </td>
@@ -177,13 +220,17 @@ This project visually explains how a user request flows from the browser to the 
 <td align="center" width="50%">
 
 <b>📐 Architecture & Backend Design</b><br/><br/>
-<a href="PDF_LINK_2_HERE" target="_blank">
+<a href="ARCHITECTURE_PDF_LINK_HERE" target="_blank">
   <img src="https://img.shields.io/badge/View%20PDF-Architecture%20Design-blue?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
 
 </td>
+
 </tr>
 </table>
+
+---
+
 
 ---
 
