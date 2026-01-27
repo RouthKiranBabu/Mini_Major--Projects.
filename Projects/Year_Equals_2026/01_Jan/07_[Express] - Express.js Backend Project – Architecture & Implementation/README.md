@@ -152,6 +152,36 @@ query parameters, and dynamic data rendering.
 
 ---
 
+<h3 align="center">🛠️ Tech Stack Used</h3>
+
+<p align="left">
+🔹 Node.js <br/>
+🔹 Express.js <br/>
+🔹 JavaScript (ES6+) <br/>
+🔹 EJS (Embedded JavaScript Templates) <br/>
+🔹 HTML Forms <br/>
+🔹 HTTP (GET, POST) <br/>
+</p>
+
+---
+
+<h3 align="center">🧩 Express.js Features Utilized</h3>
+
+<p align="left">
+🔹 Express Server Initialization & Configuration <br/>
+🔹 Modular Routing using <code>express.Router()</code> <br/>
+🔹 Middleware Execution Flow <br/>
+🔹 Form Data Handling with <code>express.urlencoded()</code> <br/>
+🔹 Dynamic Route Parameters (<code>:userID</code>) <br/>
+🔹 Route-Level Middleware (<code>router.param()</code>) <br/>
+🔹 Query Parameters Handling (<code>req.query</code>) <br/>
+🔹 Server-Side Rendering using EJS <br/>
+🔹 URL Redirection & Navigation Control <br/>
+</p>
+
+---
+
+
 <h3 align="center">🛠️ Challenges Faced & Solutions</h3>
 
 <div align="center">
@@ -254,9 +284,15 @@ query parameters, and dynamic data rendering.
 </p>
 
 <p align="center">
-  <a href="LINKEDIN_POST_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/👍%20Like%20|%20💬%20Comment%20|%20🔁%20Share-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a><br/>
+  <a href="https://www.linkedin.com/posts/routhkiranbabu_im-happy-to-share-this-cypress-automation-activity-7409872664175247360-9lff?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0fSW0BCXvPinW6E3cbBZFekfnprC0b-FU" target="_blank">
+    <img src="https://img.shields.io/badge/👍%20Like%20|%20💬%20Comment%20|%20🔁%20Share%20the%20LinkedIn%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a></br>
+  <a href="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Submissions/README.md#-submissions-by-year--month" target="_blank">
+    <img src="https://img.shields.io/badge/Upvote%20My%20LeetCode%20Submission-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://routhkiranbabu.github.io/Strava_stats/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20My%20Live%20Strava%20Stats-FC4C02?style=for-the-badge&logo=strava&logoColor=white"/>
+  </a>
   <a href="https://github.com/RouthKiranBabu" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
