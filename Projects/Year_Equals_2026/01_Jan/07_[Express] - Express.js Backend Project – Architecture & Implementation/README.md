@@ -118,11 +118,11 @@ query parameters, and dynamic data rendering.
 </p>
 
 <p align="center">
-<a href="SERVER_JS_GITHUB_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/07_%5BExpress%5D%20-%20Express.js%20Backend%20Project%20%E2%80%93%20Architecture%20%26%20Implementation/server6.js" target="_blank">
   <img src="https://img.shields.io/badge/View%20Express%20Server%20Code-Click%20Here-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
-<a href="ROUTER_JS_GITHUB_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/07_%5BExpress%5D%20-%20Express.js%20Backend%20Project%20%E2%80%93%20Architecture%20%26%20Implementation/routes/server6users.js" target="_blank">
   <img src="https://img.shields.io/badge/View%20Express%20Router%20Code-Click%20Here-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -222,14 +222,14 @@ query parameters, and dynamic data rendering.
 <td align="center" width="50%">
 
 <b>📊 Interaction Flow – User ↔ Browser ↔ Express</b><br/><br/>
-<img src="INTERACTION_FLOW_GIF_LINK_HERE" width="100%"/>
+<img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/07_%5BExpress%5D%20-%20Express.js%20Backend%20Project%20%E2%80%93%20Architecture%20%26%20Implementation/Document%20%26%20Gif/GifFile.gif" width="100%"/>
 
 </td>
 
 <td align="center" width="50%">
 
 <b>🎬 Backend Functional Demo – User Creation & Query Filtering</b><br/><br/>
-<img src="USER_CREATION_AND_QUERY_GIF_LINK_HERE" width="100%"/>
+<img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/07_%5BExpress%5D%20-%20Express.js%20Backend%20Project%20%E2%80%93%20Architecture%20%26%20Implementation/Document%20%26%20Gif/DemoGif.gif" width="100%"/>
 
 </td>
 
@@ -244,7 +244,7 @@ query parameters, and dynamic data rendering.
 <td align="center" width="50%">
 
 <b>📘 Step-by-Step Implementation Guide</b><br/><br/>
-<a href="STEP_BY_STEP_PDF_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/07_%5BExpress%5D%20-%20Express.js%20Backend%20Project%20%E2%80%93%20Architecture%20%26%20Implementation/Document%20%26%20Gif/Express.js%20Project%20%E2%80%93%20Step-by-Step%20Implementation%20Guide.pdf" target="_blank">
   <img src="https://img.shields.io/badge/View%20PDF-Implementation%20Guide-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
 
@@ -253,7 +253,7 @@ query parameters, and dynamic data rendering.
 <td align="center" width="50%">
 
 <b>📐 Architecture & Backend Design</b><br/><br/>
-<a href="ARCHITECTURE_PDF_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/07_%5BExpress%5D%20-%20Express.js%20Backend%20Project%20%E2%80%93%20Architecture%20%26%20Implementation/Document%20%26%20Gif/Express.js%20Backend%20Project%20%E2%80%93%20Architecture%20%26%20Implementation.pdf" target="_blank">
   <img src="https://img.shields.io/badge/View%20PDF-Architecture%20Design-blue?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
 
