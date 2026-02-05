@@ -21,6 +21,10 @@
   <img src="https://img.shields.io/badge/January%20|%20Open%20Projects-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/02_Feb" target="_blank">
+  <img src="https://img.shields.io/badge/February%20|%20Open%20Projects-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 <!--
 <a href="https://github.com/RouthKiranBabu/mini_major_projects/tree/main/2025/February" target="_blank">
   <img src="https://img.shields.io/badge/February%20|%20Open%20Projects-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
