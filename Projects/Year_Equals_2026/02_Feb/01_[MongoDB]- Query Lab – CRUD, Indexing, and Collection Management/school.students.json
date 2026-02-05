@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "69804ab8864a660af4628ca0"
+  },
+  "name": "spongebob",
+  "age": 30,
+  "gpa": 3.2,
+  "fullTime": false
+},
+{
+  "_id": {
+    "$oid": "698075a0c41c5afdcf628ca0"
+  },
+  "name": "patrick",
+  "age": 38,
+  "gpa": 1.5,
+  "fullTime": false
+},
+{
+  "_id": {
+    "$oid": "698075a0c41c5afdcf628ca1"
+  },
+  "name": "sandy",
+  "age": 27,
+  "gpa": 4,
+  "fullTime": false
+},
+{
+  "_id": {
+    "$oid": "698075a0c41c5afdcf628ca2"
+  },
+  "name": "gary",
+  "age": 18,
+  "gpa": 2.5,
+  "fullTime": false
+},
+{
+  "_id": {
+    "$oid": "69807998aa017ce650cd8097"
+  },
+  "name": "mongo",
+  "age": 32,
+  "gpa": 3.2,
+  "fullTime": false
+},
+{
+  "_id": {
+    "$oid": "69807a96aa017ce650cd8099"
+  },
+  "name": "Name1",
+  "age": 12,
+  "gpa": 1.2,
+  "fullTime": true
+},
+{
+  "_id": {
+    "$oid": "69807a96aa017ce650cd809a"
+  },
+  "name": "Name2",
+  "age": 22,
+  "gpa": 2.4,
+  "fullTime": true
+},
+{
+  "_id": {
+    "$oid": "69807a96aa017ce650cd809b"
+  },
+  "name": "Name3",
+  "age": 42,
+  "gpa": 6.2,
+  "fullTime": false
+},
+{
+  "_id": {
+    "$oid": "69808144c41c5afdcf628ca4"
+  },
+  "name": "Larry",
+  "age": 32,
+  "gpa": 3.2,
+  "fullTime": false,
+  "registerDate": {
+    "$date": "2026-02-02T10:49:40.654Z"
+  },
+  "gradutionDate": null,
+  "courses": [
+    "Biology",
+    "Chemistry",
+    "Calculus"
+  ],
+  "address": {
+    "street": "123 Fake St.",
+    "city": "Bik Bottom",
+    "zip": 12345
+  }
+}]
