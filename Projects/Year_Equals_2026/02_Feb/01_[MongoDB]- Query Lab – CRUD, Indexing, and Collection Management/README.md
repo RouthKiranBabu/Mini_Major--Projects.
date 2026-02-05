@@ -266,7 +266,7 @@ This project includes a <b>real MongoDB Compass exported JSON dataset</b> that a
 </p>
 
 <p align="center">
-  <a href="PUT_YOUR_LINKEDIN_POST_LINK_HERE" target="_blank">
+  <a href="https://www.linkedin.com/posts/routhkiranbabu_im-happy-to-share-this-mongodb-query-ugcPost-7425048750131326977-r-Vl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0fSW0BCXvPinW6E3cbBZFekfnprC0b-FU" target="_blank">
     <img src="https://img.shields.io/badge/👍%20Like%20|%20💬%20Comment%20|%20🔁%20Share%20the%20LinkedIn%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a></br>
   <a href="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Submissions/README.md#-submissions-by-year--month" target="_blank">
