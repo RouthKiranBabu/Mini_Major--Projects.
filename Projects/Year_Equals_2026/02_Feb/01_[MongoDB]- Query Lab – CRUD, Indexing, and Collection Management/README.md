@@ -108,7 +108,7 @@ This project includes a <b>real MongoDB Compass exported JSON dataset</b> that a
 </p>
 
 <p align="center">
-<a href="PUT_YOUR_JSON_FILE_GITHUB_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/01_%5BMongoDB%5D-%20Query%20Lab%20%E2%80%93%20CRUD%2C%20Indexing%2C%20and%20Collection%20Management/school.students.json" target="_blank">
   <img src="https://img.shields.io/badge/View%20MongoDB%20Exported%20JSON%20Dataset-Click%20Here-2EA44F?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </a>
 </p>
@@ -188,7 +188,7 @@ This project includes a <b>real MongoDB Compass exported JSON dataset</b> that a
 <td align="center" width="50%">
 
 <b>🎬 MongoDB Execution Demo (GIF)</b><br/><br/>
-<img src="PUT_YOUR_GIF_GITHUB_LINK_HERE" width="100%"/>
+<img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/01_%5BMongoDB%5D-%20Query%20Lab%20%E2%80%93%20CRUD%2C%20Indexing%2C%20and%20Collection%20Management/Documents%20%26%20Gif/DefKeyFeatures.gif" width="100%"/>
 
 </td>
 
@@ -196,47 +196,47 @@ This project includes a <b>real MongoDB Compass exported JSON dataset</b> that a
 
 <b>📘 Step-by-Step MongoDB Documentation (11 PDFs)</b><br/><br/>
 
-<a href="PUT_PDF_01_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/01_%5BMongoDB%5D-%20Query%20Lab%20%E2%80%93%20CRUD%2C%20Indexing%2C%20and%20Collection%20Management/Documents%20%26%20Gif/01_Installating%20MongoDB%20and%20Start%20Using%20VS%20Code%20or%20mongosh.exe.pdf" target="_blank">
   <img src="https://img.shields.io/badge/01%20-%20Install%20MongoDB%20%26%20Start%20Using%20mongosh-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
-<a href="PUT_PDF_02_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/01_%5BMongoDB%5D-%20Query%20Lab%20%E2%80%93%20CRUD%2C%20Indexing%2C%20and%20Collection%20Management/Documents%20%26%20Gif/02_Database%2C%20Collection%2C%20and%20Documents%20in%20MongoDB%20using%20VS%20Code%20Terminal%20and%20MongoDB%20Compass.pdf" target="_blank">
   <img src="https://img.shields.io/badge/02%20-%20Database%2C%20Collection%20%26%20Documents-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
-<a href="PUT_PDF_03_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/01_%5BMongoDB%5D-%20Query%20Lab%20%E2%80%93%20CRUD%2C%20Indexing%2C%20and%20Collection%20Management/Documents%20%26%20Gif/03_Data%20Types.pdf" target="_blank">
   <img src="https://img.shields.io/badge/03%20-%20MongoDB%20Data%20Types-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
-<a href="PUT_PDF_04_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/01_%5BMongoDB%5D-%20Query%20Lab%20%E2%80%93%20CRUD%2C%20Indexing%2C%20and%20Collection%20Management/Documents%20%26%20Gif/04_Sorting%20and%20Limiting.pdf" target="_blank">
   <img src="https://img.shields.io/badge/04%20-%20Sorting%20%26%20Limiting-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
-<a href="PUT_PDF_05_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/01_%5BMongoDB%5D-%20Query%20Lab%20%E2%80%93%20CRUD%2C%20Indexing%2C%20and%20Collection%20Management/Documents%20%26%20Gif/05_Find(%7Bquery%7D%2C%20%7BProjection%7D)%20Method%20in%20MongoDB.pdf" target="_blank">
   <img src="https://img.shields.io/badge/05%20-%20Find(Query%2C%20Projection)-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
-<a href="PUT_PDF_06_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/01_%5BMongoDB%5D-%20Query%20Lab%20%E2%80%93%20CRUD%2C%20Indexing%2C%20and%20Collection%20Management/Documents%20%26%20Gif/06_Update%20Method%20in%20MongoDB.pdf" target="_blank">
   <img src="https://img.shields.io/badge/06%20-%20Update%20Method-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
-<a href="PUT_PDF_07_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/01_%5BMongoDB%5D-%20Query%20Lab%20%E2%80%93%20CRUD%2C%20Indexing%2C%20and%20Collection%20Management/Documents%20%26%20Gif/07_Delete%20Method%20in%20MongoDB.pdf" target="_blank">
   <img src="https://img.shields.io/badge/07%20-%20Delete%20Method-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
-<a href="PUT_PDF_08_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/01_%5BMongoDB%5D-%20Query%20Lab%20%E2%80%93%20CRUD%2C%20Indexing%2C%20and%20Collection%20Management/Documents%20%26%20Gif/08_Comparison%20Query%20Parameter.pdf" target="_blank">
   <img src="https://img.shields.io/badge/08%20-%20Comparison%20Query%20Operators-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
-<a href="PUT_PDF_09_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/01_%5BMongoDB%5D-%20Query%20Lab%20%E2%80%93%20CRUD%2C%20Indexing%2C%20and%20Collection%20Management/Documents%20%26%20Gif/09_Logical%20Operators%20in%20MongoDB.pdf" target="_blank">
   <img src="https://img.shields.io/badge/09%20-%20Logical%20Operators-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
-<a href="PUT_PDF_10_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/01_%5BMongoDB%5D-%20Query%20Lab%20%E2%80%93%20CRUD%2C%20Indexing%2C%20and%20Collection%20Management/Documents%20%26%20Gif/10_Indexes%20in%20MongoDB.pdf" target="_blank">
   <img src="https://img.shields.io/badge/10%20-%20Indexes%20in%20MongoDB-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
-<a href="PUT_PDF_11_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/01_%5BMongoDB%5D-%20Query%20Lab%20%E2%80%93%20CRUD%2C%20Indexing%2C%20and%20Collection%20Management/Documents%20%26%20Gif/11_Collections%20in%20MongoDB.pdf" target="_blank">
   <img src="https://img.shields.io/badge/11%20-%20Collections%20in%20MongoDB-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
 
