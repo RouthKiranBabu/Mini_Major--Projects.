@@ -184,6 +184,7 @@ This project includes a <b>real MongoDB Compass exported JSON dataset</b> that a
 
 <table align="center">
 <tr>
+
 <td align="center" width="50%">
 
 <b>🎬 MongoDB Execution Demo (GIF)</b><br/><br/>
@@ -191,73 +192,58 @@ This project includes a <b>real MongoDB Compass exported JSON dataset</b> that a
 
 </td>
 
-<td align="center" width="50%">
+<td align="left" width="50%">
 
-<b>📘 Step-by-Step MongoDB Documentation (PDFs)</b><br/><br/>
-
-<a href="PUT_MAIN_PDF_FOLDER_LINK_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/View%20All%20MongoDB%20PDF%20Docs-Open%20Folder-red?style=for-the-badge&logo=adobeacrobatreader"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<h3 align="center">📄 Interactive PDF Buttons (All 11 Documents)</h3>
-
-<p align="center">
-<b>Each PDF below is clickable and opens the exact documentation step used in this project.</b>
-</p>
-
-<p align="center">
+<b>📘 Step-by-Step MongoDB Documentation (11 PDFs)</b><br/><br/>
 
 <a href="PUT_PDF_01_LINK_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/01%20-%20Install%20MongoDB%20%26%20Setup%20mongosh-Click%20Here-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  <img src="https://img.shields.io/badge/01%20-%20Install%20MongoDB%20%26%20Start%20Using%20mongosh-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
 <a href="PUT_PDF_02_LINK_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/02%20-%20Database%2C%20Collection%20%26%20Documents-Click%20Here-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  <img src="https://img.shields.io/badge/02%20-%20Database%2C%20Collection%20%26%20Documents-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
 <a href="PUT_PDF_03_LINK_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/03%20-%20MongoDB%20Data%20Types-Click%20Here-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  <img src="https://img.shields.io/badge/03%20-%20MongoDB%20Data%20Types-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
 <a href="PUT_PDF_04_LINK_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/04%20-%20Sorting%20%26%20Limiting-Click%20Here-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  <img src="https://img.shields.io/badge/04%20-%20Sorting%20%26%20Limiting-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
 <a href="PUT_PDF_05_LINK_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/05%20-%20Find(Query%2C%20Projection)-Click%20Here-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  <img src="https://img.shields.io/badge/05%20-%20Find(Query%2C%20Projection)-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
 <a href="PUT_PDF_06_LINK_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/06%20-%20Update%20Methods%20(%24set%2C%20%24unset)-Click%20Here-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  <img src="https://img.shields.io/badge/06%20-%20Update%20Method-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
 <a href="PUT_PDF_07_LINK_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/07%20-%20Delete%20Methods%20%26%20Recovery-Click%20Here-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  <img src="https://img.shields.io/badge/07%20-%20Delete%20Method-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
 <a href="PUT_PDF_08_LINK_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/08%20-%20Comparison%20Query%20Operators-Click%20Here-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  <img src="https://img.shields.io/badge/08%20-%20Comparison%20Query%20Operators-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
 <a href="PUT_PDF_09_LINK_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/09%20-%20Logical%20Operators%20(%24or%2C%20%24nor%2C%20%24not)-Click%20Here-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  <img src="https://img.shields.io/badge/09%20-%20Logical%20Operators-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
 <a href="PUT_PDF_10_LINK_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/10%20-%20Indexes%20%26%20Explain%20Stats-Click%20Here-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  <img src="https://img.shields.io/badge/10%20-%20Indexes%20in%20MongoDB-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
 <a href="PUT_PDF_11_LINK_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/11%20-%20Collections%20(Capped%2C%20Drop%20Collection)-Click%20Here-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  <img src="https://img.shields.io/badge/11%20-%20Collections%20in%20MongoDB-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
 
-</p>
+</td>
+
+</tr>
+</table>
 
 ---
 
