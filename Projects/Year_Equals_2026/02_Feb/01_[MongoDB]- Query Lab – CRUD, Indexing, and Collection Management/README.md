@@ -2,20 +2,20 @@
 <details>
 <summary><strong>Click to expand</strong></summary>
 
-- 🚀 Project Title  
+- 🚀 [Project Title](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/02_Feb/01_%5BMongoDB%5D-%20Query%20Lab%20%E2%80%93%20CRUD%2C%20Indexing%2C%20and%20Collection%20Management#-mongodb-query-lab--crud-indexing-and-collection-management)  
 - ⚡ One-Line Project Summary  
 - 🎯 Aim / Objective  
-- 🔥 Real-World Problem Statement  
+- 🔥 [Real-World Problem Statement](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/02_Feb/01_%5BMongoDB%5D-%20Query%20Lab%20%E2%80%93%20CRUD%2C%20Indexing%2C%20and%20Collection%20Management#-real-world-problem-statement)  
 - 🧠 Core Concepts Demonstrated – MongoDB Collections, Queries & Indexing  
 - 🧪 Operations & Scenarios Covered  
-- 📂 Exported Sample Dataset (MongoDB Compass JSON)  
+- 📂 [Exported Sample Dataset (MongoDB Compass JSON)](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/02_Feb/01_%5BMongoDB%5D-%20Query%20Lab%20%E2%80%93%20CRUD%2C%20Indexing%2C%20and%20Collection%20Management#-exported-sample-dataset-mongodb-compass-json)  
 - 🧰 Tech Stack Used  
 - 🧩 MongoDB Features Utilized  
-- 🛠️ Challenges Faced & Solutions  
+- 🛠️ [Challenges Faced & Solutions](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/02_Feb/01_%5BMongoDB%5D-%20Query%20Lab%20%E2%80%93%20CRUD%2C%20Indexing%2C%20and%20Collection%20Management#%EF%B8%8F-challenges-faced--solutions)  
 - 📂 Project Structure Overview  
-- ▶️ Execution Demo & Documentation (PDFs + GIF)  
+- ▶️ [Execution Demo & Documentation (PDFs + GIF)](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/02_Feb/01_%5BMongoDB%5D-%20Query%20Lab%20%E2%80%93%20CRUD%2C%20Indexing%2C%20and%20Collection%20Management#%EF%B8%8F-execution-demo---documentation)  
 - 🧠 Key Learnings for SDET / Backend Role  
-- 🔗 Proof of Work — Support & Connect  
+- 🔗 [Proof of Work — Support & Connect](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/02_Feb/01_%5BMongoDB%5D-%20Query%20Lab%20%E2%80%93%20CRUD%2C%20Indexing%2C%20and%20Collection%20Management#-proof-of-work--support--connect)  
 - 👨‍💻 Author  
 
 </details>
@@ -187,7 +187,7 @@ This project includes a <b>real MongoDB Compass exported JSON dataset</b> that a
 
 <td align="center" width="50%">
 
-<b>🎬 MongoDB Execution Demo (GIF)</b><br/><br/>
+<b>[DaVinci Resolve] - 🎬 MongoDB Execution Demo (GIF)</b><br/><br/>
 <img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/01_%5BMongoDB%5D-%20Query%20Lab%20%E2%80%93%20CRUD%2C%20Indexing%2C%20and%20Collection%20Management/Documents%20%26%20Gif/DefKeyFeatures.gif" width="100%"/>
 
 </td>
