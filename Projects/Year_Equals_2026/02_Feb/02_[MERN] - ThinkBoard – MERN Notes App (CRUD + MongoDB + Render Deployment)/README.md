@@ -167,7 +167,7 @@ If you find the demo sleeping, feel free to message me on LinkedIn — I’ll ac
 </p>
 
 <p align="center">
-<a href="PASTE_YOUR_POSTMAN_COLLECTION_JSON_FILE_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)/Notes_CRUD_API_Testing.postman_collection.json" target="_blank">
   <img src="https://img.shields.io/badge/⬇️%20Download%20Postman%20Collection%20(JSON)-CRUD%20API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </a>
 </p>
