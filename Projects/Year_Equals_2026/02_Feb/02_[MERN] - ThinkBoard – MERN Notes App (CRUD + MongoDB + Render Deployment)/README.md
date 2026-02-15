@@ -128,9 +128,6 @@ If you find the demo sleeping, feel free to message me on LinkedIn — I’ll ac
 
 <h3 align="center">📂 Project Structure Overview</h3>
 
-<p align="left">
-📁 <code>mern-thinkboard/</code> (root) <br/><br/>
-
 📁 <code>backend/</code> <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;📁 <code>src/config/</code> → MongoDB + Upstash setup <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;📁 <code>src/controllers/</code> → Notes CRUD logic <br/>
