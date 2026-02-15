@@ -5,7 +5,6 @@ import mongoose from "mongoose"
 export const connectDB = async () => {
     try {
         // connect by string we got earlier from MongoDB
-        //"mongodb+srv://routhfamily123_db_user:dRoCEmJAW@cluster0.dxejp0q.mongodb.net/notes_db?appName=Cluster0"
         await mongoose.connect(process.env.MONGO_URI)
         console.log("MongoDB connected Successfully...")
     } catch (error) {
@@ -15,3 +14,4 @@ export const connectDB = async () => {
     }
 
 }
+
