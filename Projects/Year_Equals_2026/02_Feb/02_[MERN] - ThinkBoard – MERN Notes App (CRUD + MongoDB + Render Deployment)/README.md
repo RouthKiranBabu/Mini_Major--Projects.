@@ -159,6 +159,20 @@ If you find the demo sleeping, feel free to message me on LinkedIn — I’ll ac
 
 </div>
 
+<br/>
+
+<p align="center">
+<b>📌 Postman Collection (Exported JSON)</b><br/>
+<i>Recruiters / reviewers can instantly import this collection and validate the complete CRUD API flow on localhost.</i>
+</p>
+
+<p align="center">
+<a href="PASTE_YOUR_POSTMAN_COLLECTION_JSON_FILE_LINK_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/⬇️%20Download%20Postman%20Collection%20(JSON)-CRUD%20API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</a>
+</p>
+
+
 ---
 
 <h3 align="center">🧩 Highlights That Recruiters Look For</h3>
