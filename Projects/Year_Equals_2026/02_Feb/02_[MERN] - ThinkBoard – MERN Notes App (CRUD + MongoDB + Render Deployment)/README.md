@@ -294,12 +294,18 @@ If you find the demo sleeping, feel free to message me on LinkedIn — I’ll ac
 <h3 align="center">🔗 Proof of Work — Support & Connect</h3>
 
 <p align="center">
-<strong>If this project added value to you, please support by <b>liking</b>, <b>commenting (rating ⭐ out of 5)</b>, and <b>sharing</b> my LinkedIn post 🚀</strong>
+<strong>If this project added value to you, please support by <b>liking</b>, <b>commenting (rating ⭐ out of 5)</b>, and <b>sharing</b> the LinkedIn post below 🚀</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/routhkiranbabu/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="linkedin_link" target="_blank">
+    <img src="https://img.shields.io/badge/👍%20Like%20|%20💬%20Comment%20|%20🔁%20Share%20the%20LinkedIn%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a></br>
+  <a href="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Submissions/README.md#-submissions-by-year--month" target="_blank">
+    <img src="https://img.shields.io/badge/Upvote%20My%20LeetCode%20Submission-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://routhkiranbabu.github.io/Strava_stats/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20My%20Live%20Strava%20Stats-FC4C02?style=for-the-badge&logo=strava&logoColor=white"/>
   </a>
   <a href="https://github.com/RouthKiranBabu" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
