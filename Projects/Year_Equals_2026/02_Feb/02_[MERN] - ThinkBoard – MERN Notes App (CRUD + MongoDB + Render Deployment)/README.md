@@ -2,20 +2,20 @@
 <details>
 <summary><strong>Click to expand</strong></summary>
 
-- 🚀 ThinkBoard – MERN Notes App (CRUD + MongoDB + Render Deployment)
+- 🚀 [ThinkBoard – MERN Notes App (CRUD + MongoDB + Render Deployment)](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)#-thinkboard--mern-notes-app)
 - ⚡ One-Line Project Summary
 - 🎯 Aim / Objective
 - 🔥 Real-World Problem Statement
 - 🧠 Core Concepts Demonstrated (MERN + REST API + Rate Limiting)
 - 🧪 Features Implemented (End-to-End)
-- 🔗 Live Demo
+- 🔗 [Live Demo](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)#-live-demo)
 - 🧰 Tech Stack Used
 - 📂 Project Structure Overview
-- 🛠️ API Endpoints (Tested via Postman)
+- 🛠️ [API Endpoints (Tested via Postman)](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)#%EF%B8%8F-api-endpoints-tested-via-postman)
 - 🧩 Highlights That Recruiters Look For
-- ▶️ Execution Demo & 📄 Documentation
+- ▶️ [Execution Demo & 📄 Documentation](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)#%EF%B8%8F-execution-demo---step-by-step-documentation)
 - 🧠 Key Learnings for SDET / Full Stack Role
-- 🔗 Proof of Work — Support & Connect
+- 🔗 [Proof of Work — Support & Connect](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)#-proof-of-work--support--connect)
 - 👨‍💻 Author
 
 </details>
