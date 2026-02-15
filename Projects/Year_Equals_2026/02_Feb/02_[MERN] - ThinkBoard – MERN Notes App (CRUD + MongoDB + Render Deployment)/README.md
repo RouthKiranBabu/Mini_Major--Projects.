@@ -2,21 +2,21 @@
 <details>
 <summary><strong>Click to expand</strong></summary>
 
-- 🚀 ThinkBoard – MERN Notes App (Deployed on Render)
-- ⚡ One-Line Project Summary  
-- 🎯 Aim / Objective  
-- 🔥 Real-World Problem Statement  
-- 🧠 Core Concepts Demonstrated (MERN + CRUD + Rate Limiting)  
-- 🧪 Features Implemented (End-to-End)  
-- 🔗 Live Demo  
-- 🧰 Tech Stack Used  
-- 📂 Project Structure Overview  
-- 🛠️ API Endpoints (Tested via Postman)  
-- 🧩 Highlights That Recruiters Look For  
-- ▶️ Execution Proof (Screenshots / GIFs Section)  
-- 🧠 Key Learnings for SDET / Full Stack Role  
-- 🔗 Proof of Work — Support & Connect  
-- 👨‍💻 Author  
+- 🚀 ThinkBoard – MERN Notes App (CRUD + MongoDB + Render Deployment)
+- ⚡ One-Line Project Summary
+- 🎯 Aim / Objective
+- 🔥 Real-World Problem Statement
+- 🧠 Core Concepts Demonstrated (MERN + REST API + Rate Limiting)
+- 🧪 Features Implemented (End-to-End)
+- 🔗 Live Demo
+- 🧰 Tech Stack Used
+- 📂 Project Structure Overview
+- 🛠️ API Endpoints (Tested via Postman)
+- 🧩 Highlights That Recruiters Look For
+- ▶️ Execution Demo & 📄 Documentation
+- 🧠 Key Learnings for SDET / Full Stack Role
+- 🔗 Proof of Work — Support & Connect
+- 👨‍💻 Author
 
 </details>
 
@@ -25,7 +25,7 @@
 <h1 align="center">🧠 ThinkBoard – MERN Notes App</h1>
 
 <h3 align="center">
-A full-stack MERN Notes application with CRUD, MongoDB persistence, rate limiting, and production deployment on Render.
+A production-ready MERN Notes application with REST API, MongoDB persistence, rate limiting, and cloud deployment on Render.
 </h3>
 
 ---
@@ -33,7 +33,7 @@ A full-stack MERN Notes application with CRUD, MongoDB persistence, rate limitin
 <h3 align="center">📌 One-Line Project Summary</h3>
 
 <p align="center">
-ThinkBoard is a MERN stack Notes application that allows users to create, view, update, and delete notes with a clean UI, toast notifications, MongoDB storage, and production-ready deployment on Render.
+ThinkBoard is a full-stack MERN Notes application that supports complete CRUD operations, MongoDB Atlas persistence, Postman-tested REST APIs, and production deployment on Render with a responsive modern UI.
 </p>
 
 ---
@@ -41,7 +41,7 @@ ThinkBoard is a MERN stack Notes application that allows users to create, view, 
 <h3 align="center">🎯 Aim / Objective</h3>
 
 <p align="center">
-To build a real-world full stack MERN application demonstrating strong backend API development, database integration, frontend UI routing, and cloud deployment skills — aligned with industry expectations.
+To build and deploy a real-world MERN application that demonstrates strong backend API design, database integration, frontend routing, middleware handling, and cloud deployment — aligned with modern industry expectations.
 </p>
 
 ---
@@ -49,26 +49,27 @@ To build a real-world full stack MERN application demonstrating strong backend A
 <h3 align="center">🔥 Real-World Problem Statement</h3>
 
 <p align="center">
-Most beginner projects stop at UI-only apps.  
-In real software engineering roles, companies expect candidates to build and deploy full-stack applications with real APIs, real databases, error handling, rate limiting, and production build configuration.
+Many beginner projects stop at UI-only apps and never reach real production standards.  
+In real software engineering roles, companies expect candidates to build full-stack systems with real APIs, real databases, testing, error handling, security, and deployment.
 </p>
 
 <p align="center">
-<b>ThinkBoard solves this by delivering a complete MERN application from development → testing → deployment.</b>
+<b>ThinkBoard solves this by delivering a complete MERN project from development → testing → deployment.</b>
 </p>
 
 ---
 
-<h3 align="center">🧠 Core Concepts Demonstrated (MERN + CRUD + Rate Limiting)</h3>
+<h3 align="center">🧠 Core Concepts Demonstrated (MERN + REST API + Rate Limiting)</h3>
 
 <p align="left">
 ✅ React Frontend with Routing (Home / Create / Detail) <br/>
 ✅ Express REST API (GET / POST / PUT / DELETE) <br/>
-✅ MongoDB + Mongoose Schema + Model <br/>
-✅ Production Build Serving (Frontend dist served via backend) <br/>
-✅ Upstash Redis Rate Limiting (Protection against spam requests) <br/>
-✅ Environment Variables & Secure Config (.env) <br/>
+✅ MongoDB Atlas + Mongoose Schema + Model <br/>
 ✅ Postman API Testing on localhost before deployment <br/>
+✅ Middleware-based architecture (controllers + routes separation) <br/>
+✅ Upstash Redis Rate Limiting (429 protection against spam requests) <br/>
+✅ Production Build Serving (frontend dist served via backend) <br/>
+✅ Environment Variables & Secure Config (.env) <br/>
 </p>
 
 ---
@@ -77,13 +78,13 @@ In real software engineering roles, companies expect candidates to build and dep
 
 <p align="left">
 ✔ Create Notes (Title + Content) <br/>
-✔ View Notes in Responsive Grid (3 columns on large screens) <br/>
+✔ View Notes in Responsive Grid Layout <br/>
 ✔ View Note Detail Page (Edit & Update) <br/>
 ✔ Delete Notes from Card UI <br/>
 ✔ Delete Notes from Detail Page <br/>
 ✔ Toast Notifications for CRUD Success/Failure <br/>
 ✔ Rate Limit UI Screen (429 Handling) <br/>
-✔ MongoDB Persistence (Notes saved permanently) <br/>
+✔ MongoDB Persistence (Notes remain after refresh) <br/>
 ✔ Production Deployment on Render Free Plan <br/>
 </p>
 
@@ -100,7 +101,7 @@ In real software engineering roles, companies expect candidates to build and dep
 <p align="center">
 <b>⚠️ Render Free Plan Notice:</b> This demo may automatically go inactive after ~15 minutes of inactivity.<br/>
 To keep it responsive, please interact with the application at least once every 15 minutes.<br/>
-If you find the demo sleeping, feel free to message me on LinkedIn — I’ll activate it immediately.
+If the demo is sleeping, feel free to message me on LinkedIn — I’ll activate it immediately.
 </p>
 
 <p align="center">
@@ -108,7 +109,6 @@ If you find the demo sleeping, feel free to message me on LinkedIn — I’ll ac
   <img src="https://img.shields.io/badge/Message%20Me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
-
 
 ---
 
@@ -128,6 +128,7 @@ If you find the demo sleeping, feel free to message me on LinkedIn — I’ll ac
 
 <h3 align="center">📂 Project Structure Overview</h3>
 
+<p align="left">
 📁 <code>backend/</code> <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;📁 <code>src/config/</code> → MongoDB + Upstash setup <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;📁 <code>src/controllers/</code> → Notes CRUD logic <br/>
@@ -172,7 +173,6 @@ If you find the demo sleeping, feel free to message me on LinkedIn — I’ll ac
 </a>
 </p>
 
-
 ---
 
 <h3 align="center">🧩 Highlights That Recruiters Look For</h3>
@@ -180,11 +180,11 @@ If you find the demo sleeping, feel free to message me on LinkedIn — I’ll ac
 <p align="left">
 ⭐ Full Stack Project (Frontend + Backend + Database) <br/>
 ⭐ Clean separation of concerns (routes, controllers, models, middleware) <br/>
-⭐ Real production deployment with correct build scripts <br/>
-⭐ Handles real-world API issues (rate limiting + error handling) <br/>
-⭐ Uses modern UI stack (Tailwind + DaisyUI) <br/>
-⭐ Uses Axios abstraction with environment-based baseURL <br/>
-⭐ CRUD fully working + tested with Postman <br/>
+⭐ Postman-tested REST APIs (local validation before deployment) <br/>
+⭐ Production deployment with correct build serving configuration <br/>
+⭐ Middleware-based rate limiting (enterprise practice) <br/>
+⭐ Error handling flow (429 / 404 / 500) <br/>
+⭐ Responsive UI + clean modern design (Tailwind + DaisyUI) <br/>
 </p>
 
 ---
@@ -274,14 +274,13 @@ If you find the demo sleeping, feel free to message me on LinkedIn — I’ll ac
 </tr>
 </table>
 
-
 ---
 
 <h3 align="center">🧠 Key Learnings for SDET / Full Stack Role</h3>
 
 <p align="left">
 ✔ Built a complete REST API with Express.js <br/>
-✔ Designed schema-driven data persistence using MongoDB + Mongoose <br/>
+✔ Designed schema-driven persistence using MongoDB + Mongoose <br/>
 ✔ Implemented middleware-based rate limiting (enterprise practice) <br/>
 ✔ Tested APIs using Postman before UI integration <br/>
 ✔ Learned production deployment flow (frontend build + backend serving) <br/>
