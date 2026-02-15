@@ -200,15 +200,15 @@ If you find the demo sleeping, feel free to message me on LinkedIn — I’ll ac
 
 <b>✅ 01) API Tested via Postman (CRUD)</b><br/>
 <i>Create • Read • Update • Delete Notes using REST API</i><br/><br/>
-<img src="PASTE_YOUR_GIF_LINK_HERE_01_POSTMAN_CRUD.gif" width="100%"/><br/><br/>
+<img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)/Documents%20and%20Gifs/Gifs/API_Tested_In_Postman.gif" width="100%"/><br/><br/>
 
 <b>✅ 02) Application CRUD Flow (MongoDB Atlas Persistence)</b><br/>
 <i>UI CRUD operations + data persists after refresh</i><br/><br/>
-<img src="PASTE_YOUR_GIF_LINK_HERE_02_APP_CRUD_MONGODB.gif" width="100%"/><br/><br/>
+<img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)/Documents%20and%20Gifs/Gifs/CRUD_Note_Document.gif" width="100%"/><br/><br/>
 
 <b>✅ 03) Responsive UI + MERN Interaction Block Diagram</b><br/>
 <i>Responsive layout + architecture showing React ↔ Node/Express ↔ MongoDB</i><br/><br/>
-<img src="PASTE_YOUR_GIF_LINK_HERE_03_RESPONSIVE_BLOCK_DIAGRAM.gif" width="100%"/>
+<img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)/Documents%20and%20Gifs/Gifs/mern.gif" width="100%"/>
 
 </td>
 
@@ -217,55 +217,55 @@ If you find the demo sleeping, feel free to message me on LinkedIn — I’ll ac
 <b>📘 Step-by-Step Beginner Documentation (13 PDFs)</b><br/>
 <i>From development → API testing → production deployment (Render + MongoDB Atlas)</i><br/><br/>
 
-<a href="PASTE_PDF_LINK_HERE_01" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)/Documents%20and%20Gifs/Documents/01_Setting%20Up%20Our%20Backend%20%26%20Basics.pdf" target="_blank">
   <img src="https://img.shields.io/badge/01%20-%20Setting%20Up%20Our%20Backend%20%26%20Basics-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
-<a href="PASTE_PDF_LINK_HERE_02" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)/Documents%20and%20Gifs/Documents/02_Nodemon%20and%20Setting%20up%20Our%20Routes.pdf" target="_blank">
   <img src="https://img.shields.io/badge/02%20-%20Nodemon%20%26%20Setting%20Up%20Our%20Routes-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
-<a href="PASTE_PDF_LINK_HERE_03" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)/Documents%20and%20Gifs/Documents/03_Optimizing%20Our%20File%20and%20Folder%20Structure.pdf" target="_blank">
   <img src="https://img.shields.io/badge/03%20-%20Optimizing%20Our%20File%20and%20Folder%20Structure-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
-<a href="PASTE_PDF_LINK_HERE_04" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)/Documents%20and%20Gifs/Documents/04_Setting%20Up%20Our%20Database(MongoDB).pdf" target="_blank">
   <img src="https://img.shields.io/badge/04%20-%20Setting%20Up%20Our%20Database%20(MongoDB)-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
-<a href="PASTE_PDF_LINK_HERE_05" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)/Documents%20and%20Gifs/Documents/05_Completing%20Our%20Controllers.pdf" target="_blank">
   <img src="https://img.shields.io/badge/05%20-%20Completing%20Our%20Controllers-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
-<a href="PASTE_PDF_LINK_HERE_06" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)/Documents%20and%20Gifs/Documents/06_Middleware%20and%20Rate%20Limiting.pdf" target="_blank">
   <img src="https://img.shields.io/badge/06%20-%20Middleware%20and%20Rate%20Limiting-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
-<a href="PASTE_PDF_LINK_HERE_07" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)/Documents%20and%20Gifs/Documents/07_Frontend%20Setup_React.js.pdf" target="_blank">
   <img src="https://img.shields.io/badge/07%20-%20Frontend%20Setup%20(React.js)-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
-<a href="PASTE_PDF_LINK_HERE_08" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)/Documents%20and%20Gifs/Documents/08_Home%20Page.pdf" target="_blank">
   <img src="https://img.shields.io/badge/08%20-%20Home%20Page-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
-<a href="PASTE_PDF_LINK_HERE_09" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)/Documents%20and%20Gifs/Documents/09_Create%20Page.pdf" target="_blank">
   <img src="https://img.shields.io/badge/09%20-%20Create%20Page-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
-<a href="PASTE_PDF_LINK_HERE_10" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)/Documents%20and%20Gifs/Documents/10_Delete%20Functionality.pdf" target="_blank">
   <img src="https://img.shields.io/badge/10%20-%20Delete%20Functionality-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
-<a href="PASTE_PDF_LINK_HERE_11" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)/Documents%20and%20Gifs/Documents/11_Note%20Detail%20Page.pdf" target="_blank">
   <img src="https://img.shields.io/badge/11%20-%20Note%20Detail%20Page-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
-<a href="PASTE_PDF_LINK_HERE_12" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)/Documents%20and%20Gifs/Documents/12_Super%20Detailed%20Deployment.pdf" target="_blank">
   <img src="https://img.shields.io/badge/12%20-%20Super%20Detailed%20Deployment-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a><br/>
 
-<a href="PASTE_PDF_LINK_HERE_13" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)/Documents%20and%20Gifs/Documents/13_Making%20Live%20After%2015%20minutes%20of%20Inactivity.pdf" target="_blank">
   <img src="https://img.shields.io/badge/13%20-%20Making%20Live%20After%2015%20Minutes%20of%20Inactivity-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
 
