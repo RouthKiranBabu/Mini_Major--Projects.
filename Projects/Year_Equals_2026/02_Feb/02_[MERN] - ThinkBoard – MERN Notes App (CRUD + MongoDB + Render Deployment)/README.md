@@ -93,9 +93,11 @@ In real software engineering roles, companies expect candidates to build full-st
 <h3 align="center">🔗 Live Demo</h3>
 
 <p align="center">
-<a href="https://mern-thinkboard-cc2l.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/🌍%20Live%20Demo%20(ThinkBoard)-Click%20Here-00C853?style=for-the-badge&logo=render&logoColor=white"/>
-</a>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="30" height="30" />
+  <a href="https://mern-thinkboard-cc2l.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌍%20Live%20Demo%20(ThinkBoard)-Click%20Here-00C853?style=for-the-badge&logo=render&logoColor=white"/>
+  </a>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Backhand Index Pointing Left" width="30" height="30" />
 </p>
 
 <p align="center">
