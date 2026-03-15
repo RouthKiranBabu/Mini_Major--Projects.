@@ -104,67 +104,22 @@ Docker solves this problem by packaging applications along with their dependenci
 
 <h3 align="center">📂 Learning Implementation (Commands & Examples)</h3>
 
-<b>Run a Docker Container</b>
+<div align="center">
 
-```bash
-docker run nginx
-````
+| 🐳 Docker Command | 🎯 Purpose of Command | 🛠️ When It Is Most Commonly Used in Real Projects |
+|------------------|----------------------|---------------------------------------------------|
+| `docker run nginx` | Creates and starts a new container using the **nginx image** | Used when quickly launching an application container to test containerized services |
+| `docker ps` | Displays **all currently running containers** | Used by DevOps engineers to monitor active containers in the environment |
+| `docker ps -a` | Lists **all containers (running + stopped)** | Used when debugging container issues or checking container lifecycle history |
+| `docker stop <container_id>` | Gracefully stops a running container | Used during deployment updates, maintenance, or when stopping services |
+| `docker rm <container_id>` | Removes a stopped container from the system | Used to clean up unused containers and maintain a clean environment |
+| `docker pull ubuntu` | Downloads an image from **Docker Hub** to the local machine | Used when preparing base images for building containers or running quick environments |
+| `docker run -d nginx` | Runs a container in **detached (background) mode** | Used in production environments where containers must run continuously in the background |
+| `docker run -p 80:5000 my-web-app` | Maps **host port to container port** for external access | Used when exposing containerized applications to users or other services |
+| `docker run -e APP_COLOR=blue my-web-app` | Passes **environment variables** to configure container behavior | Used for dynamic configuration such as database credentials, API keys, or app settings |
+| `docker run -v /opt/data:/var/lib/mysql mysql` | Mounts a **Docker volume for persistent data storage** | Used when containers require persistent data such as databases or logs |
 
-Runs a container using the nginx image.
-
-<b>View Running Containers</b>
-```bash
-docker ps
-````
-Shows all currently running containers.
-
-<b>View All Containers</b>
-```bash
-docker ps -a
-```
-Displays running and stopped containers.
-
-<b>Stop a Container</b>
-```bash
-docker stop <container_id>
-```
-Stops a running container.
-
-<b>Remove a Container</b>
-```bash
-docker rm <container_id>
-```
-Deletes a stopped container.
-
-<b>Pull an Image from Docker Hub</b>
-```bash
-docker pull ubuntu
-```
-Downloads the Ubuntu image locally.
-
-<b>Run Container in Detached Mode</b>
-```bash
-docker run -d nginx
-```
-Runs the container in background mode.
-
-<b>Port Mapping</b>
-```bash
-docker run -p 80:5000 my-web-app
-```
-Maps host port 80 to container port 5000.
-
-<b>Environment Variables</b>
-```bash
-docker run -e APP_COLOR=blue my-web-app
-```
-Pass environment variables to containers.
-
-<b>Persist Data Using Volumes</b>
-```bash
-docker run -v /opt/data:/var/lib/mysql mysql
-```
-Maps host directory to container directory.
+</div>
 
 ---
 
