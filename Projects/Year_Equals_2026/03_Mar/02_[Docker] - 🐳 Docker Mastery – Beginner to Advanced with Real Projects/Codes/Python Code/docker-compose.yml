@@ -1,0 +1,29 @@
+services:
+  mysqldb_new:
+    image: "mysql:latest"
+    environment:
+      - MYSQL_ROOT_PASSWORD=ghat123@gmail.com
+      - MYSQL_DATABASE=employee_db
+    container_name: "mysqldb_new"
+    networks:
+      - my-network
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", 'localhost']
+      timeout: 20s
+      retries: 10
+  
+  mypythonapp:
+    build: ./
+    container_name: mypyapp
+    networks:
+      - my-network
+    volumes:
+      - ./servers.txt:/myapp/servers.txt
+    depends_on:
+      mysqldb_new:
+        condition: service_healthy
+    stdin_open: true
+    tty: true
+
+networks:
+  my-network:
