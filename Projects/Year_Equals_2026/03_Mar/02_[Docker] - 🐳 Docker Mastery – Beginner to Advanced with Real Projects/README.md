@@ -259,6 +259,136 @@ This project includes <b>41 structured PDF guides</b> covering Docker step-by-st
 
 ---
 
+<h2 align="center">🧩 Mini Topics Covered – Code Implementation (Frontend + Backend)</h2>
+
+<p align="center">
+This section highlights <b>hands-on Docker implementations</b> covering both <b>frontend (React)</b> and <b>backend (Python + MySQL)</b>, demonstrating real-world full-stack containerization.
+</p>
+
+---
+
+<table align="center">
+<tr>
+<th width="50%">🌐 Frontend Implementation – Dockerized React Web Application</th>
+<th width="50%">🧪 Real-World Implementation – Multi-Container Docker Project</th>
+</tr>
+
+<tr>
+
+<td valign="top">
+
+<h3 align="center">🌐 Dockerized React App</h3>
+
+<p align="center">
+Containerized React frontend application using Docker for consistent UI deployment.
+</p>
+
+<p align="center">
+<a href="YOUR_REACT_PROJECT_FOLDER_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/View%20React%20Docker%20App-Click%20Here-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</a>
+</p>
+
+---
+
+<b>📦 Covers:</b><br/>
+✔ Dockerizing React using Node.js <br/>
+✔ npm install inside container <br/>
+✔ Port exposure (3000) <br/>
+✔ Running app via npm start <br/>
+
+---
+
+<b>⚙️ Components:</b>
+
+| Component | Purpose |
+|----------|--------|
+| ⚛️ React | UI Layer |
+| 🐳 Dockerfile | Containerization |
+| 📦 Node | Runtime |
+| 🌐 Port 3000 | Web Access |
+
+---
+
+<b>🔍 Highlights:</b><br/>
+✔ node:20 base image <br/>
+✔ Efficient build setup <br/>
+✔ Functional React UI <br/>
+
+---
+
+<b>🚀 Workflow:</b><br/>
+Build → Install → Run → Access UI
+
+---
+
+<b>💡 Key Value Delivered:</b><br/>
+✔ Frontend containerization <br/>
+✔ UI deployment skills <br/>
+✔ Full-stack readiness <br/>
+
+</td>
+
+<td valign="top">
+
+<h3 align="center">🧪 Multi-Container Backend Project</h3>
+
+<p align="center">
+Production-style Docker setup with Python backend and MySQL database using Docker Compose.
+</p>
+
+<p align="center">
+<a href="YOUR_PROJECT_FOLDER_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Docker%20Project%20Code-Click%20Here-2EA44F?style=for-the-badge&logo=docker&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<b>📦 Covers:</b><br/>
+✔ Dockerfile for Python app <br/>
+✔ MySQL container setup <br/>
+✔ Docker Compose orchestration <br/>
+✔ Networking & volumes <br/>
+
+---
+
+<b>⚙️ Components:</b>
+
+| Component | Purpose |
+|----------|--------|
+| 🐳 Dockerfile | Image build |
+| 🐍 Python | Backend logic |
+| 🛢️ MySQL | Database |
+| 🔗 Compose | Orchestration |
+
+---
+
+<b>🔍 Highlights:</b><br/>
+✔ pymysql integration <br/>
+✔ CRUD operations <br/>
+✔ Healthcheck dependency <br/>
+✔ Logging system <br/>
+
+---
+
+<b>🚀 Workflow:</b><br/>
+Build → DB Ready → Connect → CRUD Ops
+
+---
+
+<b>💡 Key Value Delivered:</b><br/>
+✔ Multi-container architecture <br/>
+✔ Backend + DB integration <br/>
+✔ Production-level skills <br/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
 <h3 align="center">▶️ Execution Demo & 📄 Documentation</h3>
 
 <table align="center">
