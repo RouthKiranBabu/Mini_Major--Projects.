@@ -5,7 +5,7 @@ from datetime import datetime
 # ------------------ DB CONFIG ------------------ #
 DB_HOST = "mysqldb"   # Docker service name
 DB_USER = "root"
-DB_PASSWORD = "ghat123@gmail.com"
+DB_PASSWORD = "Provide your mysql password"
 DB_NAME = "employee_db"
 
 # ------------------ LOG CONFIG ------------------ #
