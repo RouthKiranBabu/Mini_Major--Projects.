@@ -12,7 +12,8 @@
 - 🧰 Tech Stack Used  
 - 🧩 Docker Concepts & Features Utilized  
 - 🛠️ Challenges Faced & Solutions  
-- 📂 Project Structure Overview  
+- 📂 Project Structure Overview
+- 🧩 Mini Topics Covered – Code Implementation (Frontend + Backend)
 - ▶️ Execution Demo & Documentation  
 - 🧠 Key Learnings for SDET Role  
 - 🔗 Proof of Work — Support & Connect  
@@ -107,7 +108,7 @@ This project includes <b>41 structured PDF guides</b> covering Docker step-by-st
 </p>
 
 <p align="center">
-<a href="YOUR_PDF_FOLDER_LINK" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide" target="_blank">
   <img src="https://img.shields.io/badge/View%20Docker%20Learning%20PDFs-Click%20Here-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
 </p>
@@ -127,62 +128,62 @@ This project includes <b>41 structured PDF guides</b> covering Docker step-by-st
 <tr>
 <td valign="top">
 
-<a href="LINK_01"><img src="https://img.shields.io/badge/01_Intro-Open-blue?style=for-the-badge"/></a><br/>
-<a href="LINK_02"><img src="https://img.shields.io/badge/02_What_is_Docker-Open-blue?style=for-the-badge"/></a><br/>
-<a href="LINK_03"><img src="https://img.shields.io/badge/03_Why_Docker-Open-blue?style=for-the-badge"/></a><br/>
-<a href="LINK_04"><img src="https://img.shields.io/badge/04_Container-Open-blue?style=for-the-badge"/></a><br/>
-<a href="LINK_05"><img src="https://img.shields.io/badge/05_Architecture-Open-blue?style=for-the-badge"/></a><br/>
-<a href="LINK_06"><img src="https://img.shields.io/badge/06_Multiple_Versions-Open-blue?style=for-the-badge"/></a><br/>
-<a href="LINK_07"><img src="https://img.shields.io/badge/07_Docker_vs_VM-Open-blue?style=for-the-badge"/></a><br/>
-<a href="LINK_08"><img src="https://img.shields.io/badge/08_Components-Open-blue?style=for-the-badge"/></a><br/>
-<a href="LINK_09"><img src="https://img.shields.io/badge/09_Docker_Flow-Open-blue?style=for-the-badge"/></a><br/>
-<a href="LINK_10"><img src="https://img.shields.io/badge/10_Dockerfile-Open-blue?style=for-the-badge"/></a>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/01_Intro.pdf"><img src="https://img.shields.io/badge/01_Intro-Open-blue?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/02_What%20is%20a%20Docker_.pdf"><img src="https://img.shields.io/badge/02_What_is_Docker-Open-blue?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/03_Why%20do%20we%20need%20Docker_.pdf"><img src="https://img.shields.io/badge/03_Why_Docker-Open-blue?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/04_What%20is%20a%20Container.pdf"><img src="https://img.shields.io/badge/04_Container-Open-blue?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/05_Architecture%20of%20Docker.pdf"><img src="https://img.shields.io/badge/05_Architecture-Open-blue?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/06_Running%20Multiple%20Version%20of%20same%20Application%20Docker.pdf"><img src="https://img.shields.io/badge/06_Multiple_Versions-Open-blue?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/07_Comparison%20Docker%20vs%20VMs.pdf"><img src="https://img.shields.io/badge/07_Docker_vs_VM-Open-blue?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/08_Main%20Components%20of%20Docker.pdf"><img src="https://img.shields.io/badge/08_Components-Open-blue?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/09_Understand%20Flow%20of%20Docker.pdf"><img src="https://img.shields.io/badge/09_Docker_Flow-Open-blue?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/10_What%20is%20Dockerfile.pdf"><img src="https://img.shields.io/badge/10_Dockerfile-Open-blue?style=for-the-badge"/></a>
 
 </td>
 
 <td valign="top">
 
-<a href="LINK_11"><img src="https://img.shields.io/badge/11_Docker_Registry-Open-green?style=for-the-badge"/></a><br/>
-<a href="LINK_12"><img src="https://img.shields.io/badge/12_Docker_Hub-Open-green?style=for-the-badge"/></a><br/>
-<a href="LINK_13"><img src="https://img.shields.io/badge/13_Registry_vs_Repository-Open-green?style=for-the-badge"/></a><br/>
-<a href="LINK_14"><img src="https://img.shields.io/badge/14_WebApp_Project-Open-green?style=for-the-badge"/></a><br/>
-<a href="LINK_15"><img src="https://img.shields.io/badge/15_Create_Dockerfile-Open-green?style=for-the-badge"/></a><br/>
-<a href="LINK_16"><img src="https://img.shields.io/badge/16_Create_Image-Open-green?style=for-the-badge"/></a><br/>
-<a href="LINK_17"><img src="https://img.shields.io/badge/17_Run_Containers-Open-green?style=for-the-badge"/></a><br/>
-<a href="LINK_18"><img src="https://img.shields.io/badge/18_Detached_Mode-Open-green?style=for-the-badge"/></a><br/>
-<a href="LINK_19"><img src="https://img.shields.io/badge/19_Multiple_Containers-Open-green?style=for-the-badge"/></a><br/>
-<a href="LINK_20"><img src="https://img.shields.io/badge/20_Manage_Containers-Open-green?style=for-the-badge"/></a>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/11_What%20is%20Docker%20Registry.pdf"><img src="https://img.shields.io/badge/11_Docker_Registry-Open-green?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/12_What%20is%20Docker%20Hub.pdf"><img src="https://img.shields.io/badge/12_Docker_Hub-Open-green?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/13_Difference%20between%20Registry%20and%20Repository.pdf"><img src="https://img.shields.io/badge/13_Registry_vs_Repository-Open-green?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/14_Create%20a%20WebApp%20Demo%20Project.pdf"><img src="https://img.shields.io/badge/14_WebApp_Project-Open-green?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/15_Creating%20Dockerfile.pdf"><img src="https://img.shields.io/badge/15_Create_Dockerfile-Open-green?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/16_Creating%20Docker%20Image.pdf"><img src="https://img.shields.io/badge/16_Create_Image-Open-green?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/17_Run%20and%20Manage%20Docker%20Containers.pdf"><img src="https://img.shields.io/badge/17_Run_Containers-Open-green?style=for-the-badge"/></a><br/>
+<a href="[LINK_18](https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/18_Running%20Container%20in%20Detached%20Mode.pdf)"><img src="https://img.shields.io/badge/18_Detached_Mode-Open-green?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/19_Running%20Multiple%20Containers.pdf"><img src="https://img.shields.io/badge/19_Multiple_Containers-Open-green?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/20_Useful%20Info%20to%20Manage%20Containers.pdf"><img src="https://img.shields.io/badge/20_Manage_Containers-Open-green?style=for-the-badge"/></a>
 
 </td>
 
 <td valign="top">
 
-<a href="LINK_21"><img src="https://img.shields.io/badge/21_Manage_Images-Open-orange?style=for-the-badge"/></a><br/>
-<a href="LINK_22"><img src="https://img.shields.io/badge/22_Update_Project-Open-orange?style=for-the-badge"/></a><br/>
-<a href="LINK_23"><img src="https://img.shields.io/badge/23_Predefined_Images-Open-orange?style=for-the-badge"/></a><br/>
-<a href="LINK_24"><img src="https://img.shields.io/badge/24_Interactive_Mode-Open-orange?style=for-the-badge"/></a><br/>
-<a href="LINK_25"><img src="https://img.shields.io/badge/25_Share_DockerHub-Open-orange?style=for-the-badge"/></a><br/>
-<a href="LINK_26"><img src="https://img.shields.io/badge/26_VirtualBox_Setup-Open-orange?style=for-the-badge"/></a><br/>
-<a href="LINK_27"><img src="https://img.shields.io/badge/27_Install_Docker_Ubuntu-Open-orange?style=for-the-badge"/></a><br/>
-<a href="LINK_28"><img src="https://img.shields.io/badge/28_Docker_Desktop_Linux-Open-orange?style=for-the-badge"/></a><br/>
-<a href="LINK_29"><img src="https://img.shields.io/badge/29_Pull_Images-Open-orange?style=for-the-badge"/></a><br/>
-<a href="LINK_30"><img src="https://img.shields.io/badge/30_Docker_Volumes-Open-orange?style=for-the-badge"/></a>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/21_Managing%20Docker%20Images.pdf"><img src="https://img.shields.io/badge/21_Manage_Images-Open-orange?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/22_What%20if%20we%20update%20Project.pdf"><img src="https://img.shields.io/badge/22_Update_Project-Open-orange?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/23_Pre-defined%20Docker%20Image_.pdf"><img src="https://img.shields.io/badge/23_Predefined_Images-Open-orange?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/24_Docker%20Container%20with%20Interactive%20Mode.pdf"><img src="https://img.shields.io/badge/24_Interactive_Mode-Open-orange?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/25_Sharing%20Images%20DockerHUB.pdf"><img src="https://img.shields.io/badge/25_Share_DockerHub-Open-orange?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/26_How%20to%20Download%20VirtualBox%20with%20Ubuntu%2025.10%20amd64%20iso.pdf"><img src="https://img.shields.io/badge/26_VirtualBox_Setup-Open-orange?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/27_Install%20Docker%20in%20Ubuntu%20within%20Virtual%20Box.pdf"><img src="https://img.shields.io/badge/27_Install_Docker_Ubuntu-Open-orange?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/28_Install%20Docker%20Desktop%20for%20Linux_Ubuntu.pdf"><img src="https://img.shields.io/badge/28_Docker_Desktop_Linux-Open-orange?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/29_Using%20Our%20Image%20Remotely%20PULL%20Images.pdf"><img src="https://img.shields.io/badge/29_Pull_Images-Open-orange?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/30_Understanding%20Docker%20Volumes.pdf"><img src="https://img.shields.io/badge/30_Docker_Volumes-Open-orange?style=for-the-badge"/></a>
 
 </td>
 
 <td valign="top">
 
-<a href="LINK_31"><img src="https://img.shields.io/badge/31_Bind_Mounts-Open-purple?style=for-the-badge"/></a><br/>
-<a href="LINK_32"><img src="https://img.shields.io/badge/32_dockerignore-Open-purple?style=for-the-badge"/></a><br/>
-<a href="LINK_33"><img src="https://img.shields.io/badge/33_Container_Communication-Open-purple?style=for-the-badge"/></a><br/>
-<a href="LINK_34"><img src="https://img.shields.io/badge/34_APIs-Open-purple?style=for-the-badge"/></a><br/>
-<a href="LINK_35"><img src="https://img.shields.io/badge/35_Container_DB-Open-purple?style=for-the-badge"/></a><br/>
-<a href="LINK_36"><img src="https://img.shields.io/badge/36_Container_to_Container-Open-purple?style=for-the-badge"/></a><br/>
-<a href="LINK_37"><img src="https://img.shields.io/badge/37_Docker_Network-Open-purple?style=for-the-badge"/></a><br/>
-<a href="LINK_38"><img src="https://img.shields.io/badge/38_Docker_Compose-Open-purple?style=for-the-badge"/></a><br/>
-<a href="LINK_39"><img src="https://img.shields.io/badge/39_Compose_Multi_Container-Open-purple?style=for-the-badge"/></a><br/>
-<a href="LINK_40"><img src="https://img.shields.io/badge/40_Compose_Network-Open-purple?style=for-the-badge"/></a><br/>
-<a href="LINK_41"><img src="https://img.shields.io/badge/41_Compose_Volumes-Open-purple?style=for-the-badge"/></a>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/31_What%20are%20Bind%20Mounts.pdf"><img src="https://img.shields.io/badge/31_Bind_Mounts-Open-purple?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/32_What%20is%20dockerignore.pdf"><img src="https://img.shields.io/badge/32_dockerignore-Open-purple?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/33_Communication%20From_To%20Containers.pdf"><img src="https://img.shields.io/badge/33_Container_Communication-Open-purple?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/34_Working%20with%20APIs.pdf"><img src="https://img.shields.io/badge/34_APIs-Open-purple?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/35_Communication%20Container%20and%20Local%20DB.pdf"><img src="https://img.shields.io/badge/35_Container_DB-Open-purple?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/36_Communication%20Between%20Containers.pdf"><img src="https://img.shields.io/badge/36_Container_to_Container-Open-purple?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/37_Creating%20Docker%20Network.pdf"><img src="https://img.shields.io/badge/37_Docker_Network-Open-purple?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/38_Docker%20Compose.pdf"><img src="https://img.shields.io/badge/38_Docker_Compose-Open-purple?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/39_Docker%20Compose%20with%20Multiple%20Containers.pdf"><img src="https://img.shields.io/badge/39_Compose_Multi_Container-Open-purple?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/40_Docker%20Compose%20with%20Network.pdf"><img src="https://img.shields.io/badge/40_Compose_Network-Open-purple?style=for-the-badge"/></a><br/>
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide/41_Docker%20Compose%20with%20Volumes.pdf"><img src="https://img.shields.io/badge/41_Compose_Volumes-Open-purple?style=for-the-badge"/></a>
 
 </td>
 
@@ -284,8 +285,8 @@ Containerized React frontend application using Docker for consistent UI deployme
 </p>
 
 <p align="center">
-<a href="YOUR_REACT_PROJECT_FOLDER_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/View%20React%20Docker%20App-Click%20Here-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<a href="https://hub.docker.com/r/routhkiranbabu/webapp-demo/tags" target="_blank">
+  <img src="https://img.shields.io/badge/View%20React%20Docker%20Images-Click%20Here-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </a>
 </p>
 
@@ -338,7 +339,7 @@ Production-style Docker setup with Python backend and MySQL database using Docke
 </p>
 
 <p align="center">
-<a href="YOUR_PROJECT_FOLDER_LINK" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/Codes/Python%20Code" target="_blank">
   <img src="https://img.shields.io/badge/View%20Docker%20Project%20Code-Click%20Here-2EA44F?style=for-the-badge&logo=docker&logoColor=white"/>
 </a>
 </p>
@@ -396,14 +397,14 @@ Build → DB Ready → Connect → CRUD Ops
 <td align="center" width="50%">
 
 <b>🎬 Story-Based Docker Demo</b><br/><br/>
-<img src="YOUR_GIF_LINK" width="100%"/>
+<img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/Docker.gif" width="100%"/>
 
 </td>
 
 <td align="center" width="50%">
 
 <b>📘 Complete Docker Learning PDFs</b><br/><br/>
-<a href="YOUR_PDF_FOLDER_LINK" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/03_Mar/02_%5BDocker%5D%20-%20%F0%9F%90%B3%20Docker%20Mastery%20%E2%80%93%20Beginner%20to%20Advanced%20with%20Real%20Projects/PDFs%20and%20gif/PDF%20Guide" target="_blank">
   <img src="https://img.shields.io/badge/Open%20Full%20Documentation-View%20PDFs-blue?style=for-the-badge&logo=readthedocs"/>
 </a>
 
